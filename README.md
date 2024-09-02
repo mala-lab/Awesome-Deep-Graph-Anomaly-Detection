@@ -32,6 +32,11 @@ We will continue to update this list with the newest resources. If you find any 
 <img src="overview.png" width=900 align=middle> <br />
 
 
+<!-- ![xxx](generative_adversarial_ssl4ts.jpg) -->
+<img src="Fig4.png" width=900 align=middle> <br />
+
+<!-- ![xxx](contrastive_ssl4ts.jpg) -->
+<img src="Fig4.png" width=900 align=middle> <br />
 
 ## GNN Backbone Design 
 
