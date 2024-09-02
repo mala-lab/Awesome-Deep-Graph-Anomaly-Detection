@@ -40,11 +40,6 @@ We will continue to update this list with the newest resources. If you find any 
 <!-- ![xxx](generative_adversarial_ssl4ts.jpg) -->
 <img src="Fig3.png" width=900 align=middle> <br />
 
-<!-- ![xxx](generative_adversarial_ssl4ts.jpg) -->
-<img src="Fig4.png" width=900 align=middle> <br />
-
-<!-- ![xxx](contrastive_ssl4ts.jpg) -->
-<img src="Fig5.png" width=900 align=middle> <br />
 
 
 # Category of Deep Graph Anomaly Detection
