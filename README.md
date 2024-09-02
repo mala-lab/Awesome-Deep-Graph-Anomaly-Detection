@@ -46,6 +46,9 @@ We will continue to update this list with the newest resources. If you find any 
 <!-- ![xxx](contrastive_ssl4ts.jpg) -->
 <img src="Fig5.png" width=900 align=middle> <br />
 
+
+# Category of Deep Graph Anomaly Detection
+
 ## GNN Backbone Design 
 
 ### Discriminative GNNs
