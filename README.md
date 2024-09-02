@@ -62,11 +62,11 @@ We will continue to update this list with the newest resources. If you find any 
 
 - Explainable Graph-based Fraud Detection via Neural Meta-graph Search in *CIKM*, 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557598)[\[code\]](https://github.com/qzzdd/NGS)
 
-- Bi-Level Selection via Meta Gradient for Graph-based Fraud Detection in *DASFAA *, 2022. [\[paper\]](https://yliu.site/pub/BLS_DASFAA2022.pdf)
+- Bi-Level Selection via Meta Gradient for Graph-based Fraud Detection in *DASFAA*, 2022. [\[paper\]](https://yliu.site/pub/BLS_DASFAA2022.pdf)
 
-- H2-FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Connections in *WWW*, 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512195)
+- H2-FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Connections in *WebConf*, 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512195)
 
-- Addressing Heterophily in Graph Anomaly Detection: A Perspective of Graph Spectrum in *WWW*, 2023. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583268)[\[code\]](https://github.com/blacksingular/GHRN)
+- Addressing Heterophily in Graph Anomaly Detection: A Perspective of Graph Spectrum in *WebConf*, 2023. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583268)[\[code\]](https://github.com/blacksingular/GHRN)
 
 
 - Towards Graph-level Anomaly Detection via Deep Evolutionary Mapping in *KDD*, 2023. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599524)[\[code\]](https://github.com/XiaoxiaoMa-MQ/GmapAD/)
