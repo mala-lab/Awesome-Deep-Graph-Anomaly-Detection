@@ -1,6 +1,9 @@
-# Awesome-Deep-Graph-Anomaly-Detection
-A repository for resources of deep learning-based graph anomaly detection.
 # Deep Graph Anomaly Detection (DGAD): A Survey and New Perspectives
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
+![Stars](https://img.shields.io/github/stars/mala-lab/Awesome-Deep-Graph-Anomaly-Detection/)
+[![Visits Badge](https://badges.pufler.dev/visits/mala-lab/Awesome-Deep-Graph-Anomaly-Detection/)](https://badges.pufler.dev/visits/mala-lab/Awesome-Deep-Graph-Anomaly-Detection/)
+<!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/awesome-self-supervised-learning-timeseries) -->
 
 A professionally curated list of awesome resources (paper, code, data, etc.) on **Deep Graph Anomaly Detection (DGAD)**, which is the first work to comprehensively and systematically summarize the recent advances of deep graph anomaly detection from the methodology design to the best of our knowledge.
 
