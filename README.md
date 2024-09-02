@@ -38,7 +38,7 @@ We will continue to update this list with the newest resources. If you find any 
 <img src="Fig2.png" width=900 align=middle> <br />
 
 <!-- ![xxx](generative_adversarial_ssl4ts.jpg) -->
-<img src="Fig3.png" width=900 align=middle> <br />
+<img src="Fig3.png" width=850 align=middle> <br />
 
 
 
