@@ -125,7 +125,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 - Outlier Resistant Unsupervised Deep Architectures for Attributed Network Embedding in *WSDM*, 2020. [\[paper\]](https://dl.acm.org/doi/10.1145/3336191.3371788)[\[code\]](https://github.com/vasco95/DONE_AdONE)
 
-- - ResGCN Attention-based Deep Residual Modeling for Anomaly Detection on Attributed Networks in *Machine Learning*, 2021. [\[paper\]](https://arxiv.org/abs/2009.14738)[\[code\]](https://bitbucket.org/paulpei/resgcn/src/master/)
+- ResGCN Attention-based Deep Residual Modeling for Anomaly Detection on Attributed Networks in *Machine Learning*, 2021. [\[paper\]](https://arxiv.org/abs/2009.14738)[\[code\]](https://bitbucket.org/paulpei/resgcn/src/master/)
 
 - Mul-GAD: a semi-supervised graph anomaly detection framework via aggregating multi-view information in *Arxiv*, 2022. [\[paper\]](https://arxiv.org/abs/2212.05478)[\[code\]](https://github.com/liuyishoua/Mul-Graph-Fusion)
 
