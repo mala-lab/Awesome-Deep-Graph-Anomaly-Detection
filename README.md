@@ -29,6 +29,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 
 ## Taxonomy of  Deep Graph Anomaly Detection
+<img src="overview.png" width=900 align=middle> <br />
 
 
 
