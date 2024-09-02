@@ -31,12 +31,17 @@ We will continue to update this list with the newest resources. If you find any 
 ## Taxonomy of  Deep Graph Anomaly Detection
 <img src="overview.png" width=900 align=middle> <br />
 
+<!-- ![xxx](generative_adversarial_ssl4ts.jpg) -->
+<img src="Fig1.png" width=900 align=middle> <br />
+
+<!-- ![xxx](generative_adversarial_ssl4ts.jpg) -->
+<img src="Fig3.png" width=900 align=middle> <br />
 
 <!-- ![xxx](generative_adversarial_ssl4ts.jpg) -->
 <img src="Fig4.png" width=900 align=middle> <br />
 
 <!-- ![xxx](contrastive_ssl4ts.jpg) -->
-<img src="Fig4.png" width=900 align=middle> <br />
+<img src="Fig5.png" width=900 align=middle> <br />
 
 ## GNN Backbone Design 
 
