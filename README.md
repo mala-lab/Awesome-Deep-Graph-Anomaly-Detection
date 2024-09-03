@@ -120,13 +120,13 @@ We will continue to update this list with the newest resources. If you find any 
 
 - Self-Discriminative Modeling for Anomalous Graph Detection in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2310.06261)
 
-- Generative Semi-supervised Graph Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2402.11887)[\[code\]](https://github.com/mala-lab/GGAD)
-
 - GODM Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models in *Arxiv*, 2023.  [\[paper\]](https://arxiv.org/abs/2312.17679)[\[code\]](https://github.com/kayzliu/godm)
 
 - GADY: Unsupervised Anomaly Detection on Dynamic Graphs in *Arxiv*, 2023.  [\[paper\]](https://arxiv.org/abs/2310.16376)[\[code\]](https://github.com/mufeng-74/GADY)
 
-- Graph Anomaly Detection with Few Labels: A Data-Centric Approach in *KDD*, 2024. [\[paper\]](https://dl.acm.org/doi/10.1145/3637528.3671929) 
+- Graph Anomaly Detection with Few Labels: A Data-Centric Approach in *KDD*, 2024. [\[paper\]](https://dl.acm.org/doi/10.1145/3637528.3671929)
+  
+- Generative Semi-supervised Graph Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2402.11887)[\[code\]](https://github.com/mala-lab/GGAD)
 
 ## Proxy Task Design
 
