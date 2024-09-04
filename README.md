@@ -29,7 +29,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 
 ## Taxonomy of  Deep Graph Anomaly Detection
-<img src="overview.png" width=800 align=middle> <br />
+<img src="overview.png" width=900 align=middle> <br />
 
 
 
@@ -327,7 +327,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 ## Quantitative Comparison
 #### Quantitative comparison of node-level anomaly detection on datasets with manually injected (synthetic) anomalies
 |Metric   | Setting  | Cora | Citeseer | ACM | BlogCatalog | Flicker | Pubmed | Facebook | Reddit | Weibo |
-|---|------|----------|-----|-------------|---------|--------|----------|--------|-------|
+|---|------|----------|-----|-------------|---------|--------|----------|--------|-------|-------|
 |AUROC                  | DOMINANT \cite{ding2019deep}        | 0.815 | 0.825 | 0.760 | 0.746 | 0.744 | 0.808 | 0.554 | 0.560 | 0.850 |
 | ~                     | CoLA \cite{liu2021cola}             | 0.878 | 0.896 | 0.823 | 0.785 | 0.751 | 0.951 | /     | 0.603 | /     |
 | ~                     | SL-GAD \cite{zheng2021generative}   | 0.913 | 0.913 | 0.853 | 0.818 | 0.796 | 0.967 | /     | 0.567 | /     |
@@ -358,7 +358,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 
 #### Quantitative comparison of node-level anomaly detection on datasets with genuine anomalies
 | Metric  |  Setting   | Amazon | YelpChi | T-Finance | Question | Elliptic | Reddit | Tolokers | Weibo | DGraph | T-Social | Photo | CS |
-|---|--------|---------|-----------|----------|----------|--------|----------|-------|--------|----------|-------|----|
+|---|--------|---------|-----------|----------|----------|--------|----------|-------|--------|----------|-------|----|----|
 |AUROC                  | Unsupervised                | DOMINANT \cite{ding2019deep}       | 0.694 | 0.539 | 0.538 | /     | 0.296 | 0.556 | /     | /     | 0.574 | /     | 0.514 | 0.402 |
 | ~                     | ~                           | CoLA \cite{liu2021cola}            | 0.261 | 0.480 | 0.483 | /     | /     | 0.603 | /     | /     | /     | /     | /     | 0.481 |
 | ~                     | ~                           | CLAD \cite{kim2023class}           | 0.203 | 0.476 | 0.139 | 0.621 | 0.419 | 0.578 | 0.406 | /     | /     | /     | /     | /     |   
@@ -401,6 +401,17 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 
 #### Quantitative comparison of graph-level anomaly detection
 
+| Metric | Methods | PROTEINS-F | ENZYMES | AIDS | DHFR | BZR | COX2 | DD | NCI1 | IMDB | COLLAB | HSE | MMP | P53 | TraceLog | FlowGraph |
+|---|---|------------|---------|------|------|-----|------|----|------|------|--------|-----|-----|-----|----------|-----------|
+| AUROC                | GlocalKD \cite{ma2022deep}          | 0.773 | 0.613 | 0.932 | 0.567 | 0.694 | 0.593 | 0.801 | 0.684 | 0.521 | 0.674 | 0.593 | 0.675 | 0.640 | /     | /     |
+| ~                    | OCGIN \cite{zhao2023using}          | 0.708 | 0.587 | 0.781 | 0.492 | 0.659 | 0.535 | 0.722 | 0.719 | 0.601 | /     | /     | /     | /     | /     | /     |
+| ~                    | SIGNET \cite{liu2024towards}        | 0.752 | 0.629 | 0.972 | 0.740 | 0.814 | 0.714 | 0.727 | 0.748 | 0.664 | /     | /     | /     | /     | /     | /     |
+| ~                    | OCGTL \cite{qiu2022raising}         | 0.765 | 0.620 | 0.994 | 0.599 | 0.639 | 0.552 | 0.794 | 0.734 | 0.640 | /     | /     | /     | /     | /     | /     |
+| ~                    | OCGCN  \cite{wang2021one}           | 0.718 | 0.613 | 0.664 | 0.495 | 0.658 | 0.628 | 0.605 | 0.627 | 0.536 | /     | 0.388 | 0.457 | 0.483 | /     | /     |
+|                      | HimNet \cite{niu2023graph}          | 0.772 | 0.589 | 0.997 | 0.701 | 0.703 | 0.637 | 0.806 | 0.686 | 0.553 | 0.683 | 0.613 | 0.703 | 0.646 | /     | /     |
+| ~                    | GLADST \cite{lin2023discriminative} | /     | 0.694 | 0.976 | 0.773 | 0.810 | 0.630 | /     | 0.681 | /     | 0.776 | 0.547 | 0.685 | 0.688 | /     | /     |
+|                      | DIF \cite{xu2023deep}               | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | 0.737 | 0.715 | 0.680 | /     | /     |
+|                      | HRGCN \cite{li2023hrgcn}            | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | 0.864 | 1.000 |
 
 
 
