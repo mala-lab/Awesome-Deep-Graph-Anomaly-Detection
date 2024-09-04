@@ -3,7 +3,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/mala-lab/Awesome-Deep-Graph-Anomaly-Detection)
 [![Visits Badge](https://badges.pufler.dev/visits/mala-lab/Awesome-Deep-Graph-Anomaly-Detection)](https://badges.pufler.dev/visits/mala-lab/Awesome-Deep-Graph-Anomaly-Detection)
-<!-- ![Forks](https://img.shields.io/github/forks/mala-lab/Awesome-Deep-Graph-Anomaly-Detection/) -->
+
 
 A professionally curated list of awesome resources (paper, code, data, etc.) on **Deep Graph Anomaly Detection (DGAD)**, which is the first work to comprehensively and systematically summarize the recent advances of deep graph anomaly detection from the methodology design to the best of our knowledge.
 
@@ -31,20 +31,15 @@ We will continue to update this list with the newest resources. If you find any 
 ## Taxonomy of  Deep Graph Anomaly Detection
 <img src="overview.png" width=900 align=middle> <br />
 
-<!-- ![xxx](generative_adversarial_ssl4ts.jpg) -->
-<img src="Fig1.png" width=900 align=middle> <br />
 
-<!-- ![xxx](generative_adversarial_ssl4ts.jpg) -->
-<img src="Fig2.png" width=900 align=middle> <br />
 
-<!-- ![xxx](generative_adversarial_ssl4ts.jpg) -->
-<img src="Fig3.png" width=900 align=middle> <br />
 
 
 
 # Category of Deep Graph Anomaly Detection
 
 ## GNN Backbone Design 
+<img src="Fig1.png" width=900 align=middle> <br />
 
 ### Discriminative GNNs
 
@@ -129,6 +124,8 @@ We will continue to update this list with the newest resources. If you find any 
 - Generative Semi-supervised Graph Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2402.11887)[\[code\]](https://github.com/mala-lab/GGAD)
 
 ## Proxy Task Design
+
+<img src="Fig2.png" width=900 align=middle> <br />
 
 ### Data Reconstruction 
 
@@ -245,7 +242,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 
 ## Graph Anomaly Measure
-
+<img src="Fig3.png" width=900 align=middle> <br />
 ### One-class Distance
 
 - Deep into Hypersphere: Robust and Unsupervised Anomaly Discovery in Dynamic Networks in *IJCAI*, 2018. [\[paper\]](https://www.ijcai.org/proceedings/2018/0378.pdf)[\[code\]](https://github.com/picsolab/DeepSphere)
