@@ -59,6 +59,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
     - [3.4 Graph Isolation](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Isolation)
 - [4. Graph Anomaly Detection Related Survey](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Anomaly-Detection-Related-Survey)
 - [5. Anomaly Detection Related Survey](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Anomaly-Detection-Related-Survey)
+- [6. Quantitative Comparison](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Quantitative-Comparison)
 
 # Category of Deep Graph Anomaly Detection
 
