@@ -29,7 +29,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 
 ## Taxonomy of  Deep Graph Anomaly Detection
-<img src="overview.png" width=900 align=middle> <br />
+<img src="overview.png" width=800 align=middle> <br />
 
 
 
@@ -37,7 +37,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 # Outline
 
-The outline corresponds to the taxonomy of Problems in our [survey paper](https://arxiv.org/abs/2308.13821).
+The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 
 - [1. GNN Backbone Design](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#GNN-Backbone-Design)
   - [1.1 Discriminative GNNs](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Discriminative-GNNs)
@@ -52,11 +52,13 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
     - [2.3 Graph Representation Distillati](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Representation-Distillation)
     - [2.4 Adversarial Graph Learning](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Adversarial-Graph-Learning)
     - [2.5 Score Prediction](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Score-Prediction)
-- [3. GRAPH ANOMALY MEASURES](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Anomaly-Measures)
+- [3. Graph Anomaly Measures](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Anomaly-Measures)
     - [3.1 One-class Classification Measure](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#One-class-Distance)
     - [3.2 Community Adherence](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Community-Adherence)
     - [3.3 Local Affinity](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Local-Affinity)
     - [3.4 Graph Isolation](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Isolation)
+- [4. Graph Anomaly Detection Related Survey](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Anomaly-Detection-Related-Survey)
+- [5. Anomaly Detection Related Survey](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Anomaly-Detection-Related-Survey)
 
 # Category of Deep Graph Anomaly Detection
 
