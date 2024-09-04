@@ -328,90 +328,89 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 #### Quantitative comparison of node-level anomaly detection on datasets with manually injected (synthetic) anomalies
 |Metric   | Setting  | Cora | Citeseer | ACM | BlogCatalog | Flicker | Pubmed | Facebook | Reddit | Weibo |
 |---|------|----------|-----|-------------|---------|--------|----------|--------|-------|-------|
-|AUROC                  | DOMINANT \cite{ding2019deep}        | 0.815 | 0.825 | 0.760 | 0.746 | 0.744 | 0.808 | 0.554 | 0.560 | 0.850 |
-| ~                     | CoLA \cite{liu2021cola}             | 0.878 | 0.896 | 0.823 | 0.785 | 0.751 | 0.951 | /     | 0.603 | /     |
-| ~                     | SL-GAD \cite{zheng2021generative}   | 0.913 | 0.913 | 0.853 | 0.818 | 0.796 | 0.967 | /     | 0.567 | /     |
-| ~                     | CONAD \cite{xu2022contrastive}      | 0.788 | /     | /     | /     | /     | /     | 0.863 | 0.561 | 0.854 |
-| ~                     | AEGIS \cite{ding2021inductive}      | /     | /     | /     | 0.743 | 0.738 | 0.773 | /     | /     | /     |
-| ~                     | OCGNN \cite{wang2021one}            | 0.881 | 0.856 | /     | /     | /     | 0.747 | 0.793 | /     | /     |
-| ~                     | ComGA \cite{luo2022comga}           | 0.884 | 0.916 | 0.849 | 0.814 | 0.799 | 0.922 | 0.659 | /     | /     |
-| ~                     | AAGNN \cite{zhou2021subtractive}    | /     | /     | /     | 0.818 | 0.829 | 0.856 | /     | /     | 0.925 |
-| ~                     | HCM-A \cite{huang2022hop}           | /     | /     | 0.761 | 0.798 | 0.792 | /     | /     | /     | /     |
-| ~                     | GAAN  \cite{chen2020generative}     | 0.742 | /     | 0.877 | 0.765 | 0.753 | /     | /     | 0.554 | 0.925 |
-| ~                     | AnomalyDAE \cite{fan2020anomalydae} | 0.762 | 0.727 | 0.778 | 0.783 | 0.751 | 0.810 | /     | 0.557 | 0.915 |
-| ~                     | GAD-NR \cite{roy2023gad}            | 0.835 | /     | /     | /     | /     | /     | /     | /     | 0.623 |
-| ~                     | TAM \cite{hezhe2023truncated}       | /     | /     | 0.887 | 0.824 | /     | /     | 0.914 | 0.602 | /     |
-| AURPC                 | DOMINANT \cite{ding2019deep}        | 0.200 | /     | /     | 0.338 | 0.324 | 0.299 | /     | 0.037 | /     |
-| ~                     | CoLA \cite{liu2021cola}             | /     | /     | 0.323 | 0.327 | /     | /     | 0.211 | 0.044 | /     |
-| ~                     | SL-GAD  \cite{zheng2021generative}  | /     | /     | /     | 0.388 | 0.378 | /     | 0.131 | 0.041 | /     |
-| ~                     | CONAD \cite{xu2022contrastive}      | /     | /     | /     | /     | /     | /     | /     | 0.037 | /     |
-| ~                     | AEGIS \cite{ding2021inductive}      | /     | /     | /     | 0.339 | 0.324 | 0.373 | /     | /     | /     |
-| ~                     | OCGNN \cite{wang2021one}            | /     | /     | /     | /     | /     | /     | /     | /     | /     |
-| ~                     | ComGA \cite{luo2022comga}           | /     | /     | /     | /     | /     | /     | /     | /     | /     |
-| ~                     | AAGNN \cite{zhou2021subtractive}    | /     | /     | /     | 0.435 | 0.421 | 0.428 | /     | /     | /     |
-| ~                     | HCM-A \cite{huang2022hop}           | /     | /     | /     | /     | /     | /     | /     | /     | /     |
-| ~                     | GAAN  \cite{chen2020generative}     | /     | /     | /     | 0.338 | 0.324 | 0.337 | /     | 0.037 | /     |
-| ~                     | AnomalyDAE \cite{fan2020anomalydae} | 0.183 | /     | /     | /     | /     | /     | /     | /     | /     |
-| ~                     | GAD-NR \cite{roy2023gad}            | /     | /     | /     | /     | /     | /     | /     | /     | /     |
-| ~                     | TAM \cite{hezhe2023truncated}       | /     | /     | 0.512 | 0.418 | /     | /     | 0.223 | 0.044 | /     |
+|AUROC                      | DOMINANT \cite{ding2019deep}        | 0.815 | 0.825 | 0.760 | 0.746 | 0.744 | 0.808 | 0.554 | 0.560 | 0.850 |
+| AUROC                     | CoLA \cite{liu2021cola}             | 0.878 | 0.896 | 0.823 | 0.785 | 0.751 | 0.951 | /     | 0.603 | /     |
+| AUROC                     | SL-GAD \cite{zheng2021generative}   | 0.913 | 0.913 | 0.853 | 0.818 | 0.796 | 0.967 | /     | 0.567 | /     |
+| AUROC                     | CONAD \cite{xu2022contrastive}      | 0.788 | /     | /     | /     | /     | /     | 0.863 | 0.561 | 0.854 |
+| AUROC                     | AEGIS \cite{ding2021inductive}      | /     | /     | /     | 0.743 | 0.738 | 0.773 | /     | /     | /     |
+| AUROC                     | OCGNN \cite{wang2021one}            | 0.881 | 0.856 | /     | /     | /     | 0.747 | 0.793 | /     | /     |
+| AUROC                     | ComGA \cite{luo2022comga}           | 0.884 | 0.916 | 0.849 | 0.814 | 0.799 | 0.922 | 0.659 | /     | /     |
+| AUROC                     | AAGNN \cite{zhou2021subtractive}    | /     | /     | /     | 0.818 | 0.829 | 0.856 | /     | /     | 0.925 |
+| AUROC                     | HCM-A \cite{huang2022hop}           | /     | /     | 0.761 | 0.798 | 0.792 | /     | /     | /     | /     |
+| AUROC                     | GAAN  \cite{chen2020generative}     | 0.742 | /     | 0.877 | 0.765 | 0.753 | /     | /     | 0.554 | 0.925 |
+| AUROC                     | AnomalyDAE \cite{fan2020anomalydae} | 0.762 | 0.727 | 0.778 | 0.783 | 0.751 | 0.810 | /     | 0.557 | 0.915 |
+| AUROC                     | GAD-NR \cite{roy2023gad}            | 0.835 | /     | /     | /     | /     | /     | /     | /     | 0.623 |
+| AUROC                     | TAM \cite{hezhe2023truncated}       | /     | /     | 0.887 | 0.824 | /     | /     | 0.914 | 0.602 | /     |
+| AURPC                     | DOMINANT \cite{ding2019deep}        | 0.200 | /     | /     | 0.338 | 0.324 | 0.299 | /     | 0.037 | /     |
+| AURPC                     | CoLA \cite{liu2021cola}             | /     | /     | 0.323 | 0.327 | /     | /     | 0.211 | 0.044 | /     |
+| AURPC                     | SL-GAD  \cite{zheng2021generative}  | /     | /     | /     | 0.388 | 0.378 | /     | 0.131 | 0.041 | /     |
+| AURPC                     | CONAD \cite{xu2022contrastive}      | /     | /     | /     | /     | /     | /     | /     | 0.037 | /     |
+| AURPC                     | AEGIS \cite{ding2021inductive}      | /     | /     | /     | 0.339 | 0.324 | 0.373 | /     | /     | /     |
+| AURPC                     | OCGNN \cite{wang2021one}            | /     | /     | /     | /     | /     | /     | /     | /     | /     |
+| AURPC                     | ComGA \cite{luo2022comga}           | /     | /     | /     | /     | /     | /     | /     | /     | /     |
+| AURPC                     | AAGNN \cite{zhou2021subtractive}    | /     | /     | /     | 0.435 | 0.421 | 0.428 | /     | /     | /     |
+| AURPC                     | HCM-A \cite{huang2022hop}           | /     | /     | /     | /     | /     | /     | /     | /     | /     |
+| AURPC                     | GAAN  \cite{chen2020generative}     | /     | /     | /     | 0.338 | 0.324 | 0.337 | /     | 0.037 | /     |
+| AURPC                     | AnomalyDAE \cite{fan2020anomalydae} | 0.183 | /     | /     | /     | /     | /     | /     | /     | /     |
+| AURPC                     | GAD-NR \cite{roy2023gad}            | /     | /     | /     | /     | /     | /     | /     | /     | /     |
+| AURPC                     | TAM \cite{hezhe2023truncated}       | /     | /     | 0.512 | 0.418 | /     | /     | 0.223 | 0.044 | /     |
 
 
 #### Quantitative comparison of node-level anomaly detection on datasets with genuine anomalies
 | Metric  |  Setting   | Amazon | YelpChi | T-Finance | Question | Elliptic | Reddit | Tolokers | Weibo | DGraph | T-Social | Photo | CS |
 |---|--------|---------|-----------|----------|----------|--------|----------|-------|--------|----------|-------|----|----|
-|AUROC                  | Unsupervised                | DOMINANT \cite{ding2019deep}       | 0.694 | 0.539 | 0.538 | /     | 0.296 | 0.556 | /     | /     | 0.574 | /     | 0.514 | 0.402 |
-| ~                     | ~                           | CoLA \cite{liu2021cola}            | 0.261 | 0.480 | 0.483 | /     | /     | 0.603 | /     | /     | /     | /     | /     | 0.481 |
-| ~                     | ~                           | CLAD \cite{kim2023class}           | 0.203 | 0.476 | 0.139 | 0.621 | 0.419 | 0.578 | 0.406 | /     | /     | /     | /     | /     |   
-| ~                     | ~                           | GRADATE \cite{duan2023graph}       | 0.478 | 0.492 | 0.406 | 0.554 | /     | 0.526 | 0.537 | /     | /     | /     | /     | /     |   
-| ~                     | ~                           | GAD-NR \cite{roy2023gad}           | 0.260 | 0.470 | 0.579 | 0.587 | 0.400 | 0.553 | 0.576 | /     | /     | /     | /     | /     |
-| ~                     | ~                           | Prem \cite{pan2023prem}            | 0.278 | 0.490 | 0.448 | 0.603 | 0.497 | 0.551 | 0.565 | /     | /     | /     | /     | /     |
-| ~                     | ~                           | TAM \cite{hezhe2023truncated}      | 0.802 | 0.548 | 0.690 | 0.504 | /     | 0.572 | 0.469 | /     | /     | /     | /     | /     |
-| ~                     | ~                           | SmoothGNN \cite{dong2024smoothgnn} | 0.840 | 0.575 | 0.755 | 0.644 | 0.572 | 0.594 | 0.687 | /     | 0.649 | 0.703 | /     | /     |
-| ~                     |Semi-supervised             | GGAD \cite{qiao2024generative}     | 0.944 | /     | 0.823 | /     | 0.729 | /     | /     | /     | 0.594 | /     | 0.648 | /     |
-| ~                     |Supervised                   | BWGNN \cite{tang2022rethinking}    | 0.980 | 0.849 | 0.961 | 0.718 | 0.852 | 0.654 | 0.804 | 0.973 | 0.763 | 0.920 | /     | /     |
-| ~                     | ~                           | DCI \cite{wang2021decoupling}      | 0.946 | 0.778 | 0.868 | 0.692 | 0.828 | 0.665 | 0.755 | 0.942 | 0.747 | 0.808 | /     | /     |
-| ~                     | ~                           | AMNet \cite{chai2022can}           | 0.970 | 0.826 | 0.937 | 0.681 | 0.773 | 0.684 | 0.768 | 0.953 | 0.731 | 0.536 | /     | /     |
-| ~                     | ~                           | GHRN \cite{gao2023alleviating}     | 0.981 | 0.853 | 0.96  | 0.718 | 0.854 | 0.660 | 0.804 | 0.967 | 0.761 | 0.790 | /     | /     |
-| ~                     | ~                           | NGS \cite{qin2022explainable}      | 0.973 | 0.921 | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     |
-| ~                     | ~                           | PCGNN \cite{liu2021pick}           | 0.973 | 0.797 | 0.933 | 0.699 | 0.858 | 0.532 | 0.728 | 0.902 | 0.720 | 0.692 | /     | /     |
-| ~                     | ~                           | GDN \cite{gao2023addressing}       | 0.971 | 0.903 | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     |
-| ~                     | ~                           | DevNet \cite{pang2019deep}         | /     | /     | 0.654 | /     | /     | /     | /     | /     | /     | /     | 0.599 | 0.606 |
-| ~                     | ~                           | PReNet \cite{pang2023deep}         | /     | /     | 0.892 | /     | /     | /     | /     | /     | /     | /     | 0.698 | 0.632 |
-| ~                     | ~                           | NSReg \cite{wang2023open}          | /     | /     | 0.929 | /     | /     | /     | /     | /     | /     | /     | 0.908 | 0.797 |
-|AUPRC                  | Unsupervised                | DOMINANT \cite{ding2019deep}       | 0.102 | 0.165 | 0.047 | /     | /     | 0.036 | /     |       | 0.008 | /     | 0.104 | 0.187 |
-| ~                     | ~                           | CoLA \cite{liu2021cola}            | 0.052 | 0.136 | 0.041 | /     | /     | 0.045 | /     | /     | /     | /     | 0.246 | 0.253 |
-| ~                     | ~                           | CLAD \cite{kim2023class}           | 0.040 | 0.128 | 0.025 | 0.051 | 0.081 | 0.050 | 0.192 | /     | /     | /     | /     | /     |   
-| ~                     | ~                           | GRADATE \cite{duan2023graph}       | 0.063 | 0.145 | 0.038 | 0.035 | /     | 0.039 | 0.236 | /     | /     | /     | /     | /     |   
-| ~                     | ~                           | GADNR \cite{roy2023gad}            | 0.042 | 0.139 | 0.054 | 0.057 | 0.077 | 0.037 | 0.299 | /     | /     | /     | /     | /     |
-| ~                     | ~                           | Prem \cite{pan2023prem}            | 0.074 | 0.137 | 0.039 | 0.043 | 0.090 | 0.041 | 0.259 | /     | /     | /     | /     | /     |
-| ~                     | ~                           | TAM \cite{hezhe2023truncated}      | 0.332 | 0.173 | 0.128 | 0.039 | /     | 0.042 | 0.196 | /     | /     | /     | /     | /     |
-| ~                     | ~                           | SmoothGNN \cite{dong2024smoothgnn} | 0.395 | 0.182 | 0.140 | 0.059 | 0.116 | 0.043 | 0.351 | /     | 0.019 | 0.063 | /     | /     |
-| ~                     | Semi-supervised             | GGAD \cite{qiao2024generative}     | 0.792 | /     | 0.183 | /     | 0.243 | 0.061 | /     | /     | 0.008 | /     | 0.144 | /     |
-| ~                     | Supervised                  | BWGNN \cite{tang2022rethinking}    | 0.891 | 0.551 | 0.866 | 0.167 | 0.260 | 0.069 | 0.497 | 0.930 | 0.040 | 0.549 | /     | /     |
-| ~                     | ~                           | DCI \cite{wang2021decoupling}      | 0.815 | 0.395 | 0.626 | 0.141 | 0.254 | 0.061 | 0.399 | 0.896 | 0.036 | 0.138 | /     | /     |
-| ~                     | ~                           | AMNet \cite{chai2022can}           | 0.873 | 0.488 | 0.743 | 0.146 | 0.147 | 0.073 | 0.432 | 0.897 | 0.028 | 0.031 | /     | /     |
-| ~                     | ~                           | GHRN \cite{gao2023addressing}      | 0.895 | 0.566 | 0.866 | 0.167 | 0.277 | 0.072 | 0.499 | 0.918 | 0.04  | 0.163 | /     | /     |
-| ~                     | ~                           | NGS \cite{qin2022explainable}      | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     |
-| ~                     | ~                           | PCGNN  \cite{liu2021pick}          | 0.878 | 0.437 | 0.698 | 0.144 | 0.356 | 0.042 | 0.381 | 0.819 | 0.028 | 0.087 | /     | /     |
-| % ~                   | ~                           | GDN \cite{gao2023alleviating}      | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     |
-| ~                     | ~                           | DevNet \cite{pang2019deep}         | /     | /     | 0.323 | /     | /     | /     | /     | /     | /     | /     | 0.468 | 0.537 |
-| ~                     | ~                           | PReNet \cite{pang2023deep}         | /     | /     | 0.571 | /     | /     | /     | /     | /     | /     | /     | 0.460 | 0.557 |
-| ~                     | ~                           | NSReg \cite{wang2023open}          | /     | /     | 0.757 | /     | /     | /     | /     | /     | /     | /     | 0.836 | 0.752 |
+|AUROC                     |Unsupervised                | DOMINANT \cite{ding2019deep}       | 0.694 | 0.539 | 0.538 | /     | 0.296 | 0.556 | /     | /     | 0.574 | /     | 0.514 | 0.402 |
+|AUROC                     |Unsupervised                           | CoLA \cite{liu2021cola}            | 0.261 | 0.480 | 0.483 | /     | /     | 0.603 | /     | /     | /     | /     | /     | 0.481 |
+|AUROC                     |Unsupervised                           | CLAD \cite{kim2023class}           | 0.203 | 0.476 | 0.139 | 0.621 | 0.419 | 0.578 | 0.406 | /     | /     | /     | /     | /     |   
+|AUROC                     |Unsupervised                           | GRADATE \cite{duan2023graph}       | 0.478 | 0.492 | 0.406 | 0.554 | /     | 0.526 | 0.537 | /     | /     | /     | /     | /     |   
+|AUROC                     |Unsupervised                           | GAD-NR \cite{roy2023gad}           | 0.260 | 0.470 | 0.579 | 0.587 | 0.400 | 0.553 | 0.576 | /     | /     | /     | /     | /     |
+|AUROC                     |Unsupervised                           | Prem \cite{pan2023prem}            | 0.278 | 0.490 | 0.448 | 0.603 | 0.497 | 0.551 | 0.565 | /     | /     | /     | /     | /     |
+|AUROC                     |Unsupervised                           | TAM \cite{hezhe2023truncated}      | 0.802 | 0.548 | 0.690 | 0.504 | /     | 0.572 | 0.469 | /     | /     | /     | /     | /     |
+|AUROC                     |Unsupervised                           | SmoothGNN \cite{dong2024smoothgnn} | 0.840 | 0.575 | 0.755 | 0.644 | 0.572 | 0.594 | 0.687 | /     | 0.649 | 0.703 | /     | /     |
+|AUROC                     |Semi-supervised                        | GGAD \cite{qiao2024generative}     | 0.944 | /     | 0.823 | /     | 0.729 | /     | /     | /     | 0.594 | /     | 0.648 | /     |
+|AUROC                     |Supervised                           | BWGNN \cite{tang2022rethinking}    | 0.980 | 0.849 | 0.961 | 0.718 | 0.852 | 0.654 | 0.804 | 0.973 | 0.763 | 0.920 | /     | /     |
+|AUROC                     |Supervised                           | DCI \cite{wang2021decoupling}      | 0.946 | 0.778 | 0.868 | 0.692 | 0.828 | 0.665 | 0.755 | 0.942 | 0.747 | 0.808 | /     | /     |
+|AUROC                     |Supervised                           | AMNet \cite{chai2022can}           | 0.970 | 0.826 | 0.937 | 0.681 | 0.773 | 0.684 | 0.768 | 0.953 | 0.731 | 0.536 | /     | /     |
+|AUROC                     |Supervised                           | GHRN \cite{gao2023alleviating}     | 0.981 | 0.853 | 0.96  | 0.718 | 0.854 | 0.660 | 0.804 | 0.967 | 0.761 | 0.790 | /     | /     |
+|AUROC                     |Supervised                           | NGS \cite{qin2022explainable}      | 0.973 | 0.921 | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     |
+|AUROC                     |Supervised                           | PCGNN \cite{liu2021pick}           | 0.973 | 0.797 | 0.933 | 0.699 | 0.858 | 0.532 | 0.728 | 0.902 | 0.720 | 0.692 | /     | /     |
+|AUROC                     |Supervised                           | GDN \cite{gao2023addressing}       | 0.971 | 0.903 | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     |
+|AUROC                     |Supervised                           | DevNet \cite{pang2019deep}         | /     | /     | 0.654 | /     | /     | /     | /     | /     | /     | /     | 0.599 | 0.606 |
+|AUROC                     |Supervised                           | PReNet \cite{pang2023deep}         | /     | /     | 0.892 | /     | /     | /     | /     | /     | /     | /     | 0.698 | 0.632 |
+|AUROC                     |Supervised                           | NSReg \cite{wang2023open}          | /     | /     | 0.929 | /     | /     | /     | /     | /     | /     | /     | 0.908 | 0.797 |
+|AUPRC                     |Unsupervised                          | DOMINANT \cite{ding2019deep}       | 0.102 | 0.165 | 0.047 | /     | /     | 0.036 | /     |       | 0.008 | /     | 0.104 | 0.187 |
+|AUPRC                     |Unsupervised                           | CoLA \cite{liu2021cola}            | 0.052 | 0.136 | 0.041 | /     | /     | 0.045 | /     | /     | /     | /     | 0.246 | 0.253 |
+|AUPRC                     |Unsupervised                           | CLAD \cite{kim2023class}           | 0.040 | 0.128 | 0.025 | 0.051 | 0.081 | 0.050 | 0.192 | /     | /     | /     | /     | /     |   
+|AUPRC                     |Unsupervised~                           | GRADATE \cite{duan2023graph}       | 0.063 | 0.145 | 0.038 | 0.035 | /     | 0.039 | 0.236 | /     | /     | /     | /     | /     |   
+|AUPRC                     |Unsupervised                           | GADNR \cite{roy2023gad}            | 0.042 | 0.139 | 0.054 | 0.057 | 0.077 | 0.037 | 0.299 | /     | /     | /     | /     | /     |
+|AUPRC                     |Unsupervised                           | Prem \cite{pan2023prem}            | 0.074 | 0.137 | 0.039 | 0.043 | 0.090 | 0.041 | 0.259 | /     | /     | /     | /     | /     |
+|AUPRC                     |Unsupervised                           | TAM \cite{hezhe2023truncated}      | 0.332 | 0.173 | 0.128 | 0.039 | /     | 0.042 | 0.196 | /     | /     | /     | /     | /     |
+|AUPRC                     |Unsupervised                           | SmoothGNN \cite{dong2024smoothgnn} | 0.395 | 0.182 | 0.140 | 0.059 | 0.116 | 0.043 | 0.351 | /     | 0.019 | 0.063 | /     | /     |
+|AUPRC                     |Semi-supervised                        | GGAD \cite{qiao2024generative}     | 0.792 | /     | 0.183 | /     | 0.243 | 0.061 | /     | /     | 0.008 | /     | 0.144 | /     |
+|AUPRC                     |Supervised                           | BWGNN \cite{tang2022rethinking}    | 0.891 | 0.551 | 0.866 | 0.167 | 0.260 | 0.069 | 0.497 | 0.930 | 0.040 | 0.549 | /     | /     |
+|AUPRC                     |Supervised                           | DCI \cite{wang2021decoupling}      | 0.815 | 0.395 | 0.626 | 0.141 | 0.254 | 0.061 | 0.399 | 0.896 | 0.036 | 0.138 | /     | /     |
+|AUPRC                     |Supervised                           | AMNet \cite{chai2022can}           | 0.873 | 0.488 | 0.743 | 0.146 | 0.147 | 0.073 | 0.432 | 0.897 | 0.028 | 0.031 | /     | /     |
+|AUPRC                     |Supervised                           | GHRN \cite{gao2023addressing}      | 0.895 | 0.566 | 0.866 | 0.167 | 0.277 | 0.072 | 0.499 | 0.918 | 0.04  | 0.163 | /     | /     |
+|AUPRC                     |Supervised                           | NGS \cite{qin2022explainable}      | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     |
+|AUPRC                     |Supervised                           | PCGNN  \cite{liu2021pick}          | 0.878 | 0.437 | 0.698 | 0.144 | 0.356 | 0.042 | 0.381 | 0.819 | 0.028 | 0.087 | /     | /     |
+|AUPRC                     |Supervised                           | DevNet \cite{pang2019deep}         | /     | /     | 0.323 | /     | /     | /     | /     | /     | /     | /     | 0.468 | 0.537 |
+|AUPRC                     |Supervised                           | PReNet \cite{pang2023deep}         | /     | /     | 0.571 | /     | /     | /     | /     | /     | /     | /     | 0.460 | 0.557 |
+|AUPRC                     |Supervised                           | NSReg \cite{wang2023open}          | /     | /     | 0.757 | /     | /     | /     | /     | /     | /     | /     | 0.836 | 0.752 |
 
 
 #### Quantitative comparison of graph-level anomaly detection
 
 | Metric | Methods | PROTEINS-F | ENZYMES | AIDS | DHFR | BZR | COX2 | DD | NCI1 | IMDB | COLLAB | HSE | MMP | P53 | TraceLog | FlowGraph |
 |---|---|------------|---------|------|------|-----|------|----|------|------|--------|-----|-----|-----|----------|-----------|
-| AUROC                | GlocalKD \cite{ma2022deep}          | 0.773 | 0.613 | 0.932 | 0.567 | 0.694 | 0.593 | 0.801 | 0.684 | 0.521 | 0.674 | 0.593 | 0.675 | 0.640 | /     | /     |
-| ~                    | OCGIN \cite{zhao2023using}          | 0.708 | 0.587 | 0.781 | 0.492 | 0.659 | 0.535 | 0.722 | 0.719 | 0.601 | /     | /     | /     | /     | /     | /     |
-| ~                    | SIGNET \cite{liu2024towards}        | 0.752 | 0.629 | 0.972 | 0.740 | 0.814 | 0.714 | 0.727 | 0.748 | 0.664 | /     | /     | /     | /     | /     | /     |
-| ~                    | OCGTL \cite{qiu2022raising}         | 0.765 | 0.620 | 0.994 | 0.599 | 0.639 | 0.552 | 0.794 | 0.734 | 0.640 | /     | /     | /     | /     | /     | /     |
-| ~                    | OCGCN  \cite{wang2021one}           | 0.718 | 0.613 | 0.664 | 0.495 | 0.658 | 0.628 | 0.605 | 0.627 | 0.536 | /     | 0.388 | 0.457 | 0.483 | /     | /     |
-|                      | HimNet \cite{niu2023graph}          | 0.772 | 0.589 | 0.997 | 0.701 | 0.703 | 0.637 | 0.806 | 0.686 | 0.553 | 0.683 | 0.613 | 0.703 | 0.646 | /     | /     |
-| ~                    | GLADST \cite{lin2023discriminative} | /     | 0.694 | 0.976 | 0.773 | 0.810 | 0.630 | /     | 0.681 | /     | 0.776 | 0.547 | 0.685 | 0.688 | /     | /     |
-|                      | DIF \cite{xu2023deep}               | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | 0.737 | 0.715 | 0.680 | /     | /     |
-|                      | HRGCN \cite{li2023hrgcn}            | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | 0.864 | 1.000 |
+|AUROC                | GlocalKD \cite{ma2022deep}          | 0.773 | 0.613 | 0.932 | 0.567 | 0.694 | 0.593 | 0.801 | 0.684 | 0.521 | 0.674 | 0.593 | 0.675 | 0.640 | /     | /     |
+|AUROC                | OCGIN \cite{zhao2023using}          | 0.708 | 0.587 | 0.781 | 0.492 | 0.659 | 0.535 | 0.722 | 0.719 | 0.601 | /     | /     | /     | /     | /     | /     |
+|AUROC                | SIGNET \cite{liu2024towards}        | 0.752 | 0.629 | 0.972 | 0.740 | 0.814 | 0.714 | 0.727 | 0.748 | 0.664 | /     | /     | /     | /     | /     | /     |
+|AUROC                | OCGTL \cite{qiu2022raising}         | 0.765 | 0.620 | 0.994 | 0.599 | 0.639 | 0.552 | 0.794 | 0.734 | 0.640 | /     | /     | /     | /     | /     | /     |
+|AUROC                | OCGCN  \cite{wang2021one}           | 0.718 | 0.613 | 0.664 | 0.495 | 0.658 | 0.628 | 0.605 | 0.627 | 0.536 | /     | 0.388 | 0.457 | 0.483 | /     | /     |
+|AUROC                | HimNet \cite{niu2023graph}          | 0.772 | 0.589 | 0.997 | 0.701 | 0.703 | 0.637 | 0.806 | 0.686 | 0.553 | 0.683 | 0.613 | 0.703 | 0.646 | /     | /     |
+|AUROC                | GLADST \cite{lin2023discriminative} | /     | 0.694 | 0.976 | 0.773 | 0.810 | 0.630 | /     | 0.681 | /     | 0.776 | 0.547 | 0.685 | 0.688 | /     | /     |
+|AUROC                | DIF \cite{xu2023deep}               | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | 0.737 | 0.715 | 0.680 | /     | /     |
+|AUROC                | HRGCN \cite{li2023hrgcn}            | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | 0.864 | 1.000 |
 
 
 
