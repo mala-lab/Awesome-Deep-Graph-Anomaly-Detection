@@ -40,13 +40,23 @@ We will continue to update this list with the newest resources. If you find any 
 The outline corresponds to the taxonomy of Problems in our [survey paper](https://arxiv.org/abs/2308.13821).
 
 - [1. GNN Backbone Design](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#GNN-Backbone-Design)
-  - [1.1 Discriminative GNNs](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection###Discriminative-GNNs)
-    - [1.1.1 Aggregation Mechanism](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection####Aggregation-Mechanism)
-    - [1.1.2 Feature Transformation](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection####Feature-Transformation)
-  - [1.2 Generative GNNs](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection###Generative-GNNs)
-    - [1.2.1 Feature Interpolation](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection####Feature-Interpolation)
-    - [1.2.2 Noise Perturbation](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection####Noise-Perturbation)
-
+  - [1.1 Discriminative GNNs](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Discriminative-GNNs)
+    - [1.1.1 Aggregation Mechanism](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Aggregation-Mechanism)
+    - [1.1.2 Feature Transformation](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Feature-Transformation)
+  - [1.2 Generative GNNs](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Generative-GNNs)
+    - [1.2.1 Feature Interpolation](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Feature-Interpolation)
+    - [1.2.2 Noise Perturbation](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Noise-Perturbation)
+- [2. Proxy Task Design](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Proxy-Task-Design)
+    - [2.1 Graph Reconstruction](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Reconstruction)
+    - [2.2 Graph Contrastive Learning](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Contrastive-Learning)
+    - [2.3 Graph Representation Distillati](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Representation-Distillation)
+    - [2.4 Adversarial Graph Learning](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Adversarial-Graph-Learning)
+    - [2.5 Score Prediction](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Score-Prediction)
+- [3. GRAPH ANOMALY MEASURES](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Anomaly-Measures)
+    - [3.1 One-class Classification Measure](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#One-class-Distance)
+    - [3.2 Community Adherence](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Community-Adherence)
+    - [3.3 Local Affinity](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Local-Affinity)
+    - [3.4 Graph Isolation](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Isolation)
 
 # Category of Deep Graph Anomaly Detection
 
@@ -139,7 +149,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 
 <img src="Fig2.png" width=900 align=middle> <br />
 
-### Data Reconstruction 
+### Graph Reconstruction 
 
 - NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks in *KDD*, 2018. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3219819.3220024)[\[code\]](https://github.com/chengw07/NetWalk)
 
@@ -177,7 +187,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 
 - STRIPE Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly Detection in Dynamic Graphs in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2403.09039)
 
-### Contrastive Learning
+### Graph Contrastive Learning
 
 - ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning in *CIKM*, 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3459637.3482057)
 
@@ -222,7 +232,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 - Federated Graph Anomaly Detection via Contrastive Self-Supervised Learning in *TNNLS*, 2024. [\[paper\]](https://ieeexplore.ieee.org/document/10566052)
 
 
-### Knowledge Distillation 
+### Graph Representation Distillati 
 
 - Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation in *CIKM*, 2020. [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3412070)[\[code\]](https://git.io/GLocalKD)
 
@@ -231,7 +241,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 - FGAD: Self-boosted Knowledge Distillation for An Effective Federated Graph Anomaly Detection Framework in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2402.12761)
 
 
-### Adversarial Score Learning
+### Adversarial Graph Learning
 
 - Generative Adversarial Attributed Network Anomaly Detection in *CIKM*, 2020. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3340531.3412070)[\[code\]](https://github.com/pygod-team/pygod)
 
@@ -255,7 +265,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 
 ## Graph Anomaly Measure
 <img src="Fig3.png" width=900 align=middle> <br />
-### One-class Distance
+### One-class Classification Measure
 
 - Deep into Hypersphere: Robust and Unsupervised Anomaly Discovery in Dynamic Networks in *IJCAI*, 2018. [\[paper\]](https://www.ijcai.org/proceedings/2018/0378.pdf)[\[code\]](https://github.com/picsolab/DeepSphere)
 
