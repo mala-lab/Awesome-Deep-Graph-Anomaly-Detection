@@ -3,7 +3,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/mala-lab/Awesome-Deep-Graph-Anomaly-Detection)
 [![Visits Badge](https://badges.pufler.dev/visits/mala-lab/Awesome-Deep-Graph-Anomaly-Detection)](https://badges.pufler.dev/visits/mala-lab/Awesome-Deep-Graph-Anomaly-Detection)
-
+![GitHub forks](https://img.shields.io/github/forks/mala-lab/Awesome-Deep-Graph-Anomaly-Detection?color=blue&label=Forks) 
 
 A professionally curated list of awesome resources (paper, code, data, etc.) on **Deep Graph Anomaly Detection (DGAD)**, which is the first work to comprehensively and systematically summarize the recent advances of deep graph anomaly detection from the methodology design to the best of our knowledge.
 
