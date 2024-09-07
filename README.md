@@ -346,7 +346,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 | AUROC                     | TAM [Qiao2023]       | /     | /     | 0.887 | 0.824 | /     | /     | 0.914 | 0.602 | /     |
 | AURPC                     | DOMINANT [Ding2019]        | 0.200 | /     | /     | 0.338 | 0.324 | 0.299 | /     | 0.037 | /     |
 | AURPC                     | CoLA [Liu2021]             | /     | /     | 0.323 | 0.327 | /     | /     | 0.211 | 0.044 | /     |
-| AURPC                     | SL-GAD  [Zheng2021}]  | /     | /     | /     | 0.388 | 0.378 | /     | 0.131 | 0.041 | /     |
+| AURPC                     | SL-GAD  [Zheng2021]  | /     | /     | /     | 0.388 | 0.378 | /     | 0.131 | 0.041 | /     |
 | AURPC                     | CONAD [Xu2022]      | /     | /     | /     | /     | /     | /     | /     | 0.037 | /     |
 | AURPC                     | AEGIS [Ding2021]      | /     | /     | /     | 0.339 | 0.324 | 0.373 | /     | /     | /     |
 | AURPC                     | OCGNN [Wang2021]            | /     | /     | /     | /     | /     | /     | /     | /     | /     |
@@ -384,7 +384,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 |AUPRC                     |Unsupervised                          | DOMINANT [Ding2019]       | 0.102 | 0.165 | 0.047 | /     | /     | 0.036 | /     |       | 0.008 | /     | 0.104 | 0.187 |
 |AUPRC                     |Unsupervised                           | CoLA [Liu2021]            | 0.052 | 0.136 | 0.041 | /     | /     | 0.045 | /     | /     | /     | /     | 0.246 | 0.253 |
 |AUPRC                     |Unsupervised                           | CLAD [Kim2023]           | 0.040 | 0.128 | 0.025 | 0.051 | 0.081 | 0.050 | 0.192 | /     | /     | /     | /     | /     |   
-|AUPRC                     |Unsupervised~                           | GRADATE [Duan2023]       | 0.063 | 0.145 | 0.038 | 0.035 | /     | 0.039 | 0.236 | /     | /     | /     | /     | /     |   
+|AUPRC                     |Unsupervised                           | GRADATE [Duan2023]       | 0.063 | 0.145 | 0.038 | 0.035 | /     | 0.039 | 0.236 | /     | /     | /     | /     | /     |   
 |AUPRC                     |Unsupervised                           | GADNR [Roy2023]            | 0.042 | 0.139 | 0.054 | 0.057 | 0.077 | 0.037 | 0.299 | /     | /     | /     | /     | /     |
 |AUPRC                     |Unsupervised                           | Prem [Pan2023]            | 0.074 | 0.137 | 0.039 | 0.043 | 0.090 | 0.041 | 0.259 | /     | /     | /     | /     | /     |
 |AUPRC                     |Unsupervised                           | TAM [Qiao2023]      | 0.332 | 0.173 | 0.128 | 0.039 | /     | 0.042 | 0.196 | /     | /     | /     | /     | /     |
@@ -411,7 +411,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 |AUROC                | OCGTL [Qiu2022]         | 0.765 | 0.620 | 0.994 | 0.599 | 0.639 | 0.552 | 0.794 | 0.734 | 0.640 | /     | /     | /     | /     | /     | /     |
 |AUROC                | OCGCN  [Wang2021]           | 0.718 | 0.613 | 0.664 | 0.495 | 0.658 | 0.628 | 0.605 | 0.627 | 0.536 | /     | 0.388 | 0.457 | 0.483 | /     | /     |
 |AUROC                | HimNet [Niu2023]          | 0.772 | 0.589 | 0.997 | 0.701 | 0.703 | 0.637 | 0.806 | 0.686 | 0.553 | 0.683 | 0.613 | 0.703 | 0.646 | /     | /     |
-|AUROC                | GLADST [Lin2023] | /     | 0.694 | 0.976 | 0.773 | 0.810 | 0.630 | /     | 0.681 | /     | 0.776 | 0.547 | 0.685 | 0.688 | /     | /     |
+|AUROC                | GLADST [Lin2023]           | /     | 0.694 | 0.976 | 0.773 | 0.810 | 0.630 | /     | 0.681 | /     | 0.776 | 0.547 | 0.685 | 0.688 | /     | /     |
 |AUROC                | DIF [Xu2023]              | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | 0.737 | 0.715 | 0.680 | /     | /     |
 |AUROC                | HRGCN [Li2023]            | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | 0.864 | 1.000 |
 
