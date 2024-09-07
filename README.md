@@ -325,6 +325,8 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 
 - Weakly Supervised Anomaly Detection: A Survey in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2302.04549)[\[code\]](https://github.com/yzhao062/wsad)
 
+- Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2409.01980)
+
 ## Quantitative Comparison
 #### Quantitative comparison of node-level anomaly detection on datasets with manually injected (synthetic) anomalies
 |Metric   | Setting  | Cora | Citeseer | ACM | BlogCatalog | Flicker | Pubmed | Facebook | Reddit | Weibo |
