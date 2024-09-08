@@ -27,6 +27,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 ```
 
+#### Feel free to point out any mistakes and provide relevant papers.
+
 
 ## Taxonomy of  Deep Graph Anomaly Detection
 <img src="overview.png" width=900 align=middle> <br />
@@ -194,45 +196,45 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 
 ### Graph Contrastive Learning
 
-- [] ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning in *CIKM*, 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3459637.3482057)
+- [Jin2021] ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning in *CIKM*, 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3459637.3482057)
 
-- [] Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection in *TKDE*, 2021. [\[paper\]](https://arxiv.org/abs/2108.09896)[\[code\]](https://github.com/KimMeen/SL-GAD)
+- [Zheng2021] Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection in *TKDE*, 2021. [\[paper\]](https://arxiv.org/abs/2108.09896)[\[code\]](https://github.com/KimMeen/SL-GAD)
 
-- [] Anomaly Detection in Dynamic Graphs via Transformer in *TKDE*, 2021. [\[paper\]](https://arxiv.org/abs/2106.09876)[\[code\]](https://github.com/yuetan031/TADDY_pytorch)
+- [Liu2021] Anomaly Detection in Dynamic Graphs via Transformer in *TKDE*, 2021. [\[paper\]](https://arxiv.org/abs/2106.09876)[\[code\]](https://github.com/yuetan031/TADDY_pytorch)
 
-- [] CoLA Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning in *TNNLS*, 2021. [\[paper\]](https://arxiv.org/abs/2103.00113)[\[code\]](https://github.com/TrustAGI-Lab/CoLA)
+- [Liu2021] CoLA Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning in *TNNLS*, 2021. [\[paper\]](https://arxiv.org/abs/2103.00113)[\[code\]](https://github.com/TrustAGI-Lab/CoLA)
 
-- [] CONDA Contrastive Attributed Network Anomaly Detection with Data Augmentation in *PAKDD*, 2022. [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-031-05936-0_35)[\[code\]](https://github.com/zhiming-xu/conad)
+- [Xu2022] CONDA Contrastive Attributed Network Anomaly Detection with Data Augmentation in *PAKDD*, 2022. [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-031-05936-0_35)[\[code\]](https://github.com/zhiming-xu/conad)
 
-- [] Decoupling Representation Learning and Classification for GNN-based Anomaly Detection in *SIGIR*, 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3404835.3462944)[\[code\]](https://github.com/wyl7/DCI-pytorch)
+- [Wang2021] Decoupling Representation Learning and Classification for GNN-based Anomaly Detection in *SIGIR*, 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3404835.3462944)[\[code\]](https://github.com/wyl7/DCI-pytorch)
 
-- [] GCCAD:Graph Contrastive Coding for Anomaly Detection in *TKDE*, 2022. [\[paper\]](https://ieeexplore.ieee.org/document/9870034/)[\[code\]](https://github.com/THUDM/GraphCAD)
+- [Chen2022] GCCAD:Graph Contrastive Coding for Anomaly Detection in *TKDE*, 2022. [\[paper\]](https://ieeexplore.ieee.org/document/9870034/)[\[code\]](https://github.com/THUDM/GraphCAD)
 
-- [] Cross-Domain Graph Anomaly Detection via Anomaly-aware Contrastive Alignment in *AAAI*, 2022. [\[paper\]](https://arxiv.org/abs/2212.01096)[\[code\]](https://github.com/QZ-WANG/ACT)
+- [Wang2022] Cross-Domain Graph Anomaly Detection via Anomaly-aware Contrastive Alignment in *AAAI*, 2022. [\[paper\]](https://arxiv.org/abs/2212.01096)[\[code\]](https://github.com/QZ-WANG/ACT)
 
-- [] Reconstruction Enhanced Multi-View Contrastive Learning for Anomaly Detection on Attributed Networks in *IJCAI*, 2022. [\[paper\]](https://arxiv.org/abs/2205.04816)[\[code\]](https://github.com/Zjer12/Sub)
+- [Zhang2022] Reconstruction Enhanced Multi-View Contrastive Learning for Anomaly Detection on Attributed Networks in *IJCAI*, 2022. [\[paper\]](https://arxiv.org/abs/2205.04816)[\[code\]](https://github.com/Zjer12/Sub)
 
-- [] Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection  in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2311.10370)
+- [Xu2023] Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection  in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2311.10370)
 
-- [] ARISE: Graph Anomaly Detection on Attributed Networks via Substructure Awareness in *TNNLS*, 2023. [\[paper\]](https://arxiv.org/abs/2211.15255)[\[code\]](https://github.com/FelixDJC/ARISE)
+- [Duan2023] ARISE: Graph Anomaly Detection on Attributed Networks via Substructure Awareness in *TNNLS*, 2023. [\[paper\]](https://arxiv.org/abs/2211.15255)[\[code\]](https://github.com/FelixDJC/ARISE)
 
-- [] BOURNE: Bootstrapped Self-supervised Learning Framework for Unified Graph Anomaly Detection in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2307.15244)
+- [Liu2023] BOURNE: Bootstrapped Self-supervised Learning Framework for Unified Graph Anomaly Detection in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2307.15244)
 
-- [] GOOD-D:On Unsupervised Graph Out-Of-Distribution Detection in *WSDM*, 2023.  [\[paper\]](https://arxiv.org/abs/2211.04208)[\[code\]](https://github.com/yixinliu233/g-ood-d)
+- [Ding2023] GOOD-D:On Unsupervised Graph Out-Of-Distribution Detection in *WSDM*, 2023.  [\[paper\]](https://arxiv.org/abs/2211.04208)[\[code\]](https://github.com/yixinliu233/g-ood-d)
 
-- [] GRADATE:Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View in *AAAI*, 2023.  [\[paper\]](https://arxiv.org/abs/2212.00535)[\[code\]](https://github.com/FelixDJC/GRADATE)
+- [Duan2023] GRADATE:Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View in *AAAI*, 2023.  [\[paper\]](https://arxiv.org/abs/2212.00535)[\[code\]](https://github.com/FelixDJC/GRADATE)
 
-- [] GraphFC:Customs Fraud Detection with Label Scarcity in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2305.11377)[\[code\]](https://github.com/k-s-b/gnn_wco)
+- [Singh2023] GraphFC:Customs Fraud Detection with Label Scarcity in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2305.11377)[\[code\]](https://github.com/k-s-b/gnn_wco)
 
-- [] Revisiting Graph Contrastive Learning for Anomaly Detection in *Arxiv*, 2023.   [\[paper\]](https://arxiv.org/abs/2305.02496)[\[code\]](https://github.com/liuyishoua/MAG-Framework)
+- [Liu2023] Revisiting Graph Contrastive Learning for Anomaly Detection in *Arxiv*, 2023.   [\[paper\]](https://arxiv.org/abs/2305.02496)[\[code\]](https://github.com/liuyishoua/MAG-Framework)
 
-- [] Multi-representations Space Separation based Graph-level Anomaly-aware Detection in *SSDBM*, 2023.  [\[paper\]](https://arxiv.org/abs/2307.12994)[\[code\]](https://github.com/whb605/mssgad)
+- [Lin2023] Multi-representations Space Separation based Graph-level Anomaly-aware Detection in *SSDBM*, 2023.  [\[paper\]](https://arxiv.org/abs/2307.12994)[\[code\]](https://github.com/whb605/mssgad)
 
-- [] Towards Self-Interpretable Graph-Level Anomaly Detection in *NeurIPS*, 2023. [\[paper\]](https://arxiv.org/abs/2310.16520)[\[code\]](https://github.com/yixinliu233/signet)
+- [Liu2023] Towards Self-Interpretable Graph-Level Anomaly Detection in *NeurIPS*, 2023. [\[paper\]](https://arxiv.org/abs/2310.16520)[\[code\]](https://github.com/yixinliu233/signet)
 
-- [] Learning Node Abnormality with Weak Supervision  in *CIKM*, 2023. [\[paper\]](https://dl.acm.org/doi/10.1145/3583780.3614950)
+- [Zhou2023] Learning Node Abnormality with Weak Supervision  in *CIKM*, 2023. [\[paper\]](https://dl.acm.org/doi/10.1145/3583780.3614950)
 
-- [] Federated Graph Anomaly Detection via Contrastive Self-Supervised Learning in *TNNLS*, 2024. [\[paper\]](https://ieeexplore.ieee.org/document/10566052)
+- [Kong2024] Federated Graph Anomaly Detection via Contrastive Self-Supervised Learning in *TNNLS*, 2024. [\[paper\]](https://ieeexplore.ieee.org/document/10566052)
 
 
 ### Graph Representation Distillati 
@@ -310,23 +312,23 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 
 ## Graph Anomaly Detection Related Survey
 
-- [] A Comprehensive Survey on Graph Anomaly Detection with Deep Learning in *TKDE*, 2021.  [\[paper\]](https://arxiv.org/abs/2106.07178)
+- [Ma2021] A Comprehensive Survey on Graph Anomaly Detection with Deep Learning in *TKDE*, 2021.  [\[paper\]](https://arxiv.org/abs/2106.07178)
 
-- [] BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs in *NeurIPS*, 2022. [\[paper\]](https://arxiv.org/abs/2206.10071)[\[code\]](https://github.com/pygod-team/pygod/tree/main/benchmark)
+- [Liu2022] BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs in *NeurIPS*, 2022. [\[paper\]](https://arxiv.org/abs/2206.10071)[\[code\]](https://github.com/pygod-team/pygod/tree/main/benchmark)
 
-- [] GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection in *NeurIPS*, 2023. [\[paper\]](https://arxiv.org/abs/2306.12251)[\[code\]](https://github.com/squareRoot3/GADBench)
+- [Tang2023] GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection in *NeurIPS*, 2023. [\[paper\]](https://arxiv.org/abs/2306.12251)[\[code\]](https://github.com/squareRoot3/GADBench)
 
-- [] A survey of imbalanced learning on graphs: Problems, techniques, and future direction  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2308.13821)
+- [Liu2023] A survey of imbalanced learning on graphs: Problems, techniques, and future direction  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2308.13821)
 
-- [] Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection:A Benchmark in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2406.15523)[\[code\]](https://github.com/UB-GOLD/UB-GOLD)
+- [Wang2024] Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection:A Benchmark in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2406.15523)[\[code\]](https://github.com/UB-GOLD/UB-GOLD)
 
 ##  Anomaly Detection Related Survey
 
 - [Pang2020] Deep Learning for Anomaly Detection: A Review in *CSUR*, 2020. [\[paper\]](https://arxiv.org/abs/2007.02500)
 
-- [] Weakly Supervised Anomaly Detection: A Survey in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2302.04549)[\[code\]](https://github.com/yzhao062/wsad)
+- [Jiang2023] Weakly Supervised Anomaly Detection: A Survey in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2302.04549)[\[code\]](https://github.com/yzhao062/wsad)
 
-- [] Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2409.01980)
+- [Xu2024] Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2409.01980)
 
 ## Quantitative Comparison
 #### Quantitative comparison of node-level anomaly detection on datasets with manually injected (synthetic) anomalies
