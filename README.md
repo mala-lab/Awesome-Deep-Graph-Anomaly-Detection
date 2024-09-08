@@ -27,7 +27,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 ```
 
-#### Feel free to point out any mistakes and provide relevant papers.
+#### Feel free to point out any mistakes and welcome to provide relevant papers.
 
 
 ## Taxonomy of  Deep Graph Anomaly Detection
