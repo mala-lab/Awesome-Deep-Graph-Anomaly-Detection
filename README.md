@@ -80,25 +80,25 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 
 - [Zhang2022] Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection in *NeurIPS*, 2022. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/98a625423070cfc6ae3d82d4b59408a0-Abstract-Conference.html)
 
-- []Explainable Graph-based Fraud Detection via Neural Meta-graph Search in *CIKM*, 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557598)[\[code\]](https://github.com/qzzdd/NGS)
+- [Qin2022] Explainable Graph-based Fraud Detection via Neural Meta-graph Search in *CIKM*, 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557598)[\[code\]](https://github.com/qzzdd/NGS)
 
-- []Bi-Level Selection via Meta Gradient for Graph-based Fraud Detection in *DASFAA*, 2022. [\[paper\]](https://yliu.site/pub/BLS_DASFAA2022.pdf)
+- [Dong2022] Bi-Level Selection via Meta Gradient for Graph-based Fraud Detection in *DASFAA*, 2022. [\[paper\]](https://yliu.site/pub/BLS_DASFAA2022.pdf)
 
-- []H2-FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Connections in *WebConf*, 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512195)
+- [Shi2022] H2-FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Connections in *WebConf*, 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512195)
 
-- []Addressing Heterophily in Graph Anomaly Detection: A Perspective of Graph Spectrum in *WebConf*, 2023. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583268)[\[code\]](https://github.com/blacksingular/GHRN)
+- [Gao2023] Addressing Heterophily in Graph Anomaly Detection: A Perspective of Graph Spectrum in *WebConf*, 2023. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583268)[\[code\]](https://github.com/blacksingular/GHRN)
 
-- Towards Graph-level Anomaly Detection via Deep Evolutionary Mapping in *KDD*, 2023. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599524)[\[code\]](https://github.com/XiaoxiaoMa-MQ/GmapAD/)
+- [Ma2023] Towards Graph-level Anomaly Detection via Deep Evolutionary Mapping in *KDD*, 2023. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599524)[\[code\]](https://github.com/XiaoxiaoMa-MQ/GmapAD/)
 
-- Multitask Active Learning for Graph Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2401.13210)[\[code\]](https://github.com/AhaChang/MITIGATE)
+- [Chang2024] Multitask Active Learning for Graph Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2401.13210)[\[code\]](https://github.com/AhaChang/MITIGATE)
 
-- Generation is better than Modification: Combating High Class Homophily Variance in Graph Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2403.10339)
+- [Zhang2024] Generation is better than Modification: Combating High Class Homophily Variance in Graph Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2403.10339)
 
-- Boosting Graph Anomaly Detection with Adaptive Message Passing in *ICLR*, 2024. [\[paper\]](https://openreview.net/forum?id=CanomFZssu)
+- [Chen2024] Boosting Graph Anomaly Detection with Adaptive Message Passing in *ICLR*, 2024. [\[paper\]](https://openreview.net/forum?id=CanomFZssu)
 
--  Partitioning Message Passing for Graph Fraud Detection in *ICLR*, 2024. [\[paper\]](https://openreview.net/pdf?id=tEgrUrUuwA)[\[code\]](https://github.com/Xtra-Computing/PMP)
+- [Zhuo2023] Partitioning Message Passing for Graph Fraud Detection in *ICLR*, 2024. [\[paper\]](https://openreview.net/pdf?id=tEgrUrUuwA)[\[code\]](https://github.com/Xtra-Computing/PMP)
 
-- Graph Anomaly Detection with Bi-level Optimization in *WebConf*, 2024. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3589334.3645673)[\[code\]](https://github.com/blacksingular/Bio-GNN)
+- [Gao2024] Graph Anomaly Detection with Bi-level Optimization in *WebConf*, 2024. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3589334.3645673)[\[code\]](https://github.com/blacksingular/Bio-GNN)
 
 
 #### Feature Transformation
