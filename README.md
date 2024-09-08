@@ -103,15 +103,15 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 
 #### Feature Transformation
 
-- Can Abnormality be Detected by Graph Neural Networks? in *IJCAI*, 2022. [\[paper\]](http://yangy.org/works/gnn/IJCAI22_Abnormality.pdf)[\[code\]](https://github.com/zjunet/AMNet)
+- [Chai2022] Can Abnormality be Detected by Graph Neural Networks? in *IJCAI*, 2022. [\[paper\]](http://yangy.org/works/gnn/IJCAI22_Abnormality.pdf)[\[code\]](https://github.com/zjunet/AMNet)
 
-- Rethinking Graph Neural Networks for Anomaly Detection in *ICML*, 2022.[\[paper\]](https://proceedings.mlr.press/v162/tang22b.html)[\[code\]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)
+- [Tang2022] Rethinking Graph Neural Networks for Anomaly Detection in *ICML*, 2022.[\[paper\]](https://proceedings.mlr.press/v162/tang22b.html)[\[code\]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)
 
-- Alleviating Structural Distribution Shift in Graph Anomaly Detection in *WSDM*, 2023.[\[paper\]](https://arxiv.org/abs/2401.14155)[\[code\]](https://github.com/blacksingular/wsdm_GDN)
+- [Gao2023] Alleviating Structural Distribution Shift in Graph Anomaly Detection in *WSDM*, 2023.[\[paper\]](https://arxiv.org/abs/2401.14155)[\[code\]](https://github.com/blacksingular/wsdm_GDN)
 
-- Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection in *ICLR*, 2024.[\[paper\]](https://arxiv.org/pdf/2310.02861)[\[code\]](https://github.com/xydong127/RQGNN)
+- [Dong2023] Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection in *ICLR*, 2024.[\[paper\]](https://arxiv.org/pdf/2310.02861)[\[code\]](https://github.com/xydong127/RQGNN)
 
-- SmoothGNN: Smoothing-based GNN for Unsupervised Node Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2405.17525)
+- [Dong2024] SmoothGNN: Smoothing-based GNN for Unsupervised Node Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2405.17525)
 
 
 
@@ -120,32 +120,32 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 #### Feature Interpolation
 
 
-- GRAPHENS:Neighbor-aware Ego Network Synthesis for Class-imbalance Node Classification in *ICLR*, 2022. [\[paper\]](https://openreview.net/forum?id=MXEl7i-iru)[\[code\]](https://github.com/JoonHyung-Park/GraphENS)
+- [Park2022] GRAPHENS:Neighbor-aware Ego Network Synthesis for Class-imbalance Node Classification in *ICLR*, 2022. [\[paper\]](https://openreview.net/forum?id=MXEl7i-iru)[\[code\]](https://github.com/JoonHyung-Park/GraphENS)
 
-- DAGAD: Data Augmentation for Graph Anomaly Detection in *ICDM*, 2022. [\[paper\]](https://arxiv.org/abs/2210.09766)[\[code\]](https://github.com/FanzhenLiu/DAGAD)
+- [Liu2022] DAGAD: Data Augmentation for Graph Anomaly Detection in *ICDM*, 2022. [\[paper\]](https://arxiv.org/abs/2210.09766)[\[code\]](https://github.com/FanzhenLiu/DAGAD)
 
-- GADY Unsupervised Anomaly Detection on Dynamic Graphs in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2310.16376)
+- [Lou2023] GADY Unsupervised Anomaly Detection on Dynamic Graphs in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2310.16376)
 
-- Generative Graph Augmentation for Minority Class in Fraud Detection in *CIKM*, 2023. [\[paper\]](https://dl.acm.org/doi/10.1145/3583780.3615255)
+- [Meng2023] Generative Graph Augmentation for Minority Class in Fraud Detection in *CIKM*, 2023. [\[paper\]](https://dl.acm.org/doi/10.1145/3583780.3615255)
 
-- Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation in *TKDE*, 2023. [\[paper\]](https://arxiv.org/abs/2306.10534v1)[\[code\]](https://github.com/betterzhou/AugAN)
+- [Zhou2023] Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation in *TKDE*, 2023. [\[paper\]](https://arxiv.org/abs/2306.10534v1)[\[code\]](https://github.com/betterzhou/AugAN)
 
-- Class-Imbalanced Graph Learning without Class Rebalancing in *ICML*, 2024. [\[paper\]](https://arxiv.org/abs/2308.14181)[\[code\]](https://github.com/ZhiningLiu1998/BAT)
+- [Liu2024] Class-Imbalanced Graph Learning without Class Rebalancing in *ICML*, 2024. [\[paper\]](https://arxiv.org/abs/2308.14181)[\[code\]](https://github.com/ZhiningLiu1998/BAT)
 
-- Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision in *ICLR*, 2024. [\[paper\]](https://openreview.net/pdf?id=elMKXvhhQ9)[\[code\]](https://github.com/Xtra-Computing/ConsisGAD)
+- [Chen2024] Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision in *ICLR*, 2024. [\[paper\]](https://openreview.net/pdf?id=elMKXvhhQ9)[\[code\]](https://github.com/Xtra-Computing/ConsisGAD)
 
 #### Noise Perturbation
 
 
-- Self-Discriminative Modeling for Anomalous Graph Detection in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2310.06261)
+- [Cai2023] Self-Discriminative Modeling for Anomalous Graph Detection in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2310.06261)
 
-- GODM Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models in *Arxiv*, 2023.  [\[paper\]](https://arxiv.org/abs/2312.17679)[\[code\]](https://github.com/kayzliu/godm)
+- [Liu2023] GODM Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models in *Arxiv*, 2023.  [\[paper\]](https://arxiv.org/abs/2312.17679)[\[code\]](https://github.com/kayzliu/godm)
 
-- GADY: Unsupervised Anomaly Detection on Dynamic Graphs in *Arxiv*, 2023.  [\[paper\]](https://arxiv.org/abs/2310.16376)[\[code\]](https://github.com/mufeng-74/GADY)
+- [Lou2023] GADY: Unsupervised Anomaly Detection on Dynamic Graphs in *Arxiv*, 2023.  [\[paper\]](https://arxiv.org/abs/2310.16376)[\[code\]](https://github.com/mufeng-74/GADY)
 
-- Graph Anomaly Detection with Few Labels: A Data-Centric Approach in *KDD*, 2024. [\[paper\]](https://dl.acm.org/doi/10.1145/3637528.3671929)
+- [Ma2024] Graph Anomaly Detection with Few Labels: A Data-Centric Approach in *KDD*, 2024. [\[paper\]](https://dl.acm.org/doi/10.1145/3637528.3671929)
   
-- Generative Semi-supervised Graph Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2402.11887)[\[code\]](https://github.com/mala-lab/GGAD)
+- [Qiao2024] Generative Semi-supervised Graph Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2402.11887)[\[code\]](https://github.com/mala-lab/GGAD)
 
 ## Proxy Task Design
 
@@ -153,41 +153,41 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 
 ### Graph Reconstruction 
 
-- NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks in *KDD*, 2018. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3219819.3220024)[\[code\]](https://github.com/chengw07/NetWalk)
+- [] NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks in *KDD*, 2018. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3219819.3220024)[\[code\]](https://github.com/chengw07/NetWalk)
 
-- Deep Anomaly Detection on Attributed Networks in *SDM*, 2019. [\[paper\]](https://epubs.siam.org/doi/epdf/10.1137/1.9781611975673.67)[\[code\]](https://github.com/kaize0409/GCN_AnomalyDetection_pytorch)
+- [Ding2019] Deep Anomaly Detection on Attributed Networks in *SDM*, 2019. [\[paper\]](https://epubs.siam.org/doi/epdf/10.1137/1.9781611975673.67)[\[code\]](https://github.com/kaize0409/GCN_AnomalyDetection_pytorch)
 
-- ANOMALYDAE: Dual Autoencoder for Anomaly Detection on Attribute Networks in *ICASSP*, 2020. [\[paper\]](https://arxiv.org/abs/2002.03665)[\[code\]](https://github.com/haoyfan/AnomalyDAE)
+- [] ANOMALYDAE: Dual Autoencoder for Anomaly Detection on Attribute Networks in *ICASSP*, 2020. [\[paper\]](https://arxiv.org/abs/2002.03665)[\[code\]](https://github.com/haoyfan/AnomalyDAE)
 
-- Outlier Resistant Unsupervised Deep Architectures for Attributed Network Embedding in *WSDM*, 2020. [\[paper\]](https://dl.acm.org/doi/10.1145/3336191.3371788)[\[code\]](https://github.com/vasco95/DONE_AdONE)
+- [] Outlier Resistant Unsupervised Deep Architectures for Attributed Network Embedding in *WSDM*, 2020. [\[paper\]](https://dl.acm.org/doi/10.1145/3336191.3371788)[\[code\]](https://github.com/vasco95/DONE_AdONE)
 
-- ResGCN Attention-based Deep Residual Modeling for Anomaly Detection on Attributed Networks in *Machine Learning*, 2021. [\[paper\]](https://arxiv.org/abs/2009.14738)[\[code\]](https://bitbucket.org/paulpei/resgcn/src/master/)
+- [] ResGCN Attention-based Deep Residual Modeling for Anomaly Detection on Attributed Networks in *Machine Learning*, 2021. [\[paper\]](https://arxiv.org/abs/2009.14738)[\[code\]](https://bitbucket.org/paulpei/resgcn/src/master/)
 
-- Mul-GAD: a semi-supervised graph anomaly detection framework via aggregating multi-view information in *Arxiv*, 2022. [\[paper\]](https://arxiv.org/abs/2212.05478)[\[code\]](https://github.com/liuyishoua/Mul-Graph-Fusion)
+- [] Mul-GAD: a semi-supervised graph anomaly detection framework via aggregating multi-view information in *Arxiv*, 2022. [\[paper\]](https://arxiv.org/abs/2212.05478)[\[code\]](https://github.com/liuyishoua/Mul-Graph-Fusion)
 
-- AnomMAN: Detect Anomaly on Multi-view Attributed Networks in *Information Sciences*, 2022.[\[paper\]](https://arxiv.org/abs/2201.02822)
+- [] AnomMAN: Detect Anomaly on Multi-view Attributed Networks in *Information Sciences*, 2022.[\[paper\]](https://arxiv.org/abs/2201.02822)
 
-- A Deep Multi-View Framework for Anomaly in *TKDE*, 2022. [\[paper\]](https://ieeexplore.ieee.org/document/9162509)
+- [] A Deep Multi-View Framework for Anomaly in *TKDE*, 2022. [\[paper\]](https://ieeexplore.ieee.org/document/9162509)
 
-- ComGA: Community-Aware Attributed Graph Anomaly Detection in *WSDM*, 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3488560.3498389)[\[code\]](https://github.com/XuexiongLuoMQ/ComGA)
+- [] ComGA: Community-Aware Attributed Graph Anomaly Detection in *WSDM*, 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3488560.3498389)[\[code\]](https://github.com/XuexiongLuoMQ/ComGA)
 
-- Reconstruction Enhanced Multi-View Contrastive Learning for Anomaly Detection on Attributed Networks in *IJCAI*, 2022. [\[paper\]](https://arxiv.org/abs/2205.04816)[\[code\]](https://github.com/Zjer12/Sub)
+- [] Reconstruction Enhanced Multi-View Contrastive Learning for Anomaly Detection on Attributed Networks in *IJCAI*, 2022. [\[paper\]](https://arxiv.org/abs/2205.04816)[\[code\]](https://github.com/Zjer12/Sub)
 
-- Unsupervised Graph Outlier Detection: Problem Revisit, New Insight, and Superior Method in *Arxiv*, 2022. [\[paper\]](https://arxiv.org/abs/2210.12941)[\[code\]](https://github.com/goldenNormal/vgod-github)
+- [] Unsupervised Graph Outlier Detection: Problem Revisit, New Insight, and Superior Method in *Arxiv*, 2022. [\[paper\]](https://arxiv.org/abs/2210.12941)[\[code\]](https://github.com/goldenNormal/vgod-github)
 
-- Graph-level Anomaly Detection via Hierarchical Memory Networks in *ECML PKDD*, 2023. [\[paper\]](https://arxiv.org/abs/2307.00755)[\[code\]](https://github.com/Niuchx/HimNet)
+- [] Graph-level Anomaly Detection via Hierarchical Memory Networks in *ECML PKDD*, 2023. [\[paper\]](https://arxiv.org/abs/2307.00755)[\[code\]](https://github.com/Niuchx/HimNet)
 
-- Hybrid-Order Anomaly Detection on Attributed Networks in *TKDE*, 2023 [\[paper\]](https://ieeexplore.ieee.org/document/9560054)[\[code\]](https://github.com/zirui-yuan/HO-GAT)
+- [] Hybrid-Order Anomaly Detection on Attributed Networks in *TKDE*, 2023 [\[paper\]](https://ieeexplore.ieee.org/document/9560054)[\[code\]](https://github.com/zirui-yuan/HO-GAT)
 
-- A graph encoder–decoder network for unsupervised anomaly detection in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2308.07774)
+- [] A graph encoder–decoder network for unsupervised anomaly detection in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2308.07774)
 
-- Label-based Graph Augmentation with Metapath for Graph Anomaly Detection in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2308.10918)[\[code\]](https://github.com/missinghwan/INFOREP)
+- [] Label-based Graph Augmentation with Metapath for Graph Anomaly Detection in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2308.10918)[\[code\]](https://github.com/missinghwan/INFOREP)
 
-- GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction in *WSDM*, 2024.  [\[paper\]](https://arxiv.org/abs/2306.01951)[\[code\]](https://github.com/Graph-COM/GAD-NR)
+- [Roy2024] GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction in *WSDM*, 2024.  [\[paper\]](https://arxiv.org/abs/2306.01951)[\[code\]](https://github.com/Graph-COM/GAD-NR)
 
-- ADA-GAD:Anomaly-Denoised Autoencoders for Graph Anomaly Detection in *AAAI*, 2024. [\[paper\]](https://arxiv.org/abs/2312.14535)[\[code\]](https://github.com/jweihe/ADA-GAD)
+- [] ADA-GAD:Anomaly-Denoised Autoencoders for Graph Anomaly Detection in *AAAI*, 2024. [\[paper\]](https://arxiv.org/abs/2312.14535)[\[code\]](https://github.com/jweihe/ADA-GAD)
 
-- STRIPE Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly Detection in Dynamic Graphs in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2403.09039)
+- [] STRIPE Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly Detection in Dynamic Graphs in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2403.09039)
 
 ### Graph Contrastive Learning
 
