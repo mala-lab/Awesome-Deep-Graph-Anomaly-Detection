@@ -70,24 +70,23 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 
 #### Aggregation Mechanism
 
-- Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters in *CIKM*, 2020. [\[paper\]](https://arxiv.org/abs/2008.08692)[\[code\]](https://github.com/YingtongDou/CARE-GNN)
+- [Dou2020] Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters in *CIKM*, 2020. [\[paper\]](https://arxiv.org/abs/2008.08692)[\[code\]](https://github.com/YingtongDou/CARE-GNN)
 
-- Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection in *SIGIR*, 2020. [\[paper\]](https://arxiv.org/abs/2005.00625)[\[code\]](https://github.com/safe-graph/DGFraud)
+- [Liu2020] Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection in *SIGIR*, 2020. [\[paper\]](https://arxiv.org/abs/2005.00625)[\[code\]](https://github.com/safe-graph/DGFraud)
 
-- Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection in *WWW*, 2021.[\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3442381.3449989)[\[code\]](https://github.com/PonderLY/PC-GNN)
+- [Liu2021] Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection in *WWW*, 2021.[\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3442381.3449989)[\[code\]](https://github.com/PonderLY/PC-GNN)
 
-- FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and Imbalance  in *ICDM*, 2021. [\[paper\]](https://ieeexplore.ieee.org/document/9679178)[\[code\]](https://github.com/FraudDetection/FRAUDRE)
+- [Zhang2021] FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and Imbalance  in *ICDM*, 2021. [\[paper\]](https://ieeexplore.ieee.org/document/9679178)[\[code\]](https://github.com/FraudDetection/FRAUDRE)
 
-- Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection in *NeurIPS*, 2022. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/98a625423070cfc6ae3d82d4b59408a0-Abstract-Conference.html)
+- [Zhang2022] Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection in *NeurIPS*, 2022. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/98a625423070cfc6ae3d82d4b59408a0-Abstract-Conference.html)
 
-- Explainable Graph-based Fraud Detection via Neural Meta-graph Search in *CIKM*, 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557598)[\[code\]](https://github.com/qzzdd/NGS)
+- []Explainable Graph-based Fraud Detection via Neural Meta-graph Search in *CIKM*, 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557598)[\[code\]](https://github.com/qzzdd/NGS)
 
-- Bi-Level Selection via Meta Gradient for Graph-based Fraud Detection in *DASFAA*, 2022. [\[paper\]](https://yliu.site/pub/BLS_DASFAA2022.pdf)
+- []Bi-Level Selection via Meta Gradient for Graph-based Fraud Detection in *DASFAA*, 2022. [\[paper\]](https://yliu.site/pub/BLS_DASFAA2022.pdf)
 
-- H2-FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Connections in *WebConf*, 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512195)
+- []H2-FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Connections in *WebConf*, 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512195)
 
-- Addressing Heterophily in Graph Anomaly Detection: A Perspective of Graph Spectrum in *WebConf*, 2023. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583268)[\[code\]](https://github.com/blacksingular/GHRN)
-
+- []Addressing Heterophily in Graph Anomaly Detection: A Perspective of Graph Spectrum in *WebConf*, 2023. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583268)[\[code\]](https://github.com/blacksingular/GHRN)
 
 - Towards Graph-level Anomaly Detection via Deep Evolutionary Mapping in *KDD*, 2023. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599524)[\[code\]](https://github.com/XiaoxiaoMa-MQ/GmapAD/)
 
