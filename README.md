@@ -320,6 +320,8 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 
 - [Liu2023] A survey of imbalanced learning on graphs: Problems, techniques, and future direction  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2308.13821)
 
+- [Ekle2024] Anomaly Detection in Dynamic Graphs: A Comprehensive Survey in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2406.00134)
+
 - [Wang2024] Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection:A Benchmark in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2406.15523)[\[code\]](https://github.com/UB-GOLD/UB-GOLD)
 
 ##  Anomaly Detection Related Survey
