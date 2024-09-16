@@ -1,20 +1,20 @@
-# Deep Graph Anomaly Detection (DGAD): A Survey and New Perspectives
+# Deep Graph Anomaly Detection: A Survey and New Perspectives
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/mala-lab/Awesome-Deep-Graph-Anomaly-Detection)
 [![Visits Badge](https://badges.pufler.dev/visits/mala-lab/Awesome-Deep-Graph-Anomaly-Detection)](https://badges.pufler.dev/visits/mala-lab/Awesome-Deep-Graph-Anomaly-Detection)
 ![GitHub forks](https://img.shields.io/github/forks/mala-lab/Awesome-Deep-Graph-Anomaly-Detection?color=blue&label=Forks) 
 
-A professionally curated list of awesome resources (paper, code, data, etc.) on **Deep Graph Anomaly Detection (DGAD)**, which is the first work to comprehensively and systematically summarize the recent advances of deep graph anomaly detection from the methodology design to the best of our knowledge.
+A professionally curated list of awesome resources (paper, code, data, etc.) on **Deep Graph Anomaly Detection** (DGAD), which is the first work to comprehensively and systematically summarize the recent advances of deep graph anomaly detection from the methodology design to the best of our knowledge.
 
-We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
+We will continue to update this list with the latest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
  
 ## Survey Paper 
 
 [**Deep Graph Anomaly Detection: A Survey and New Perspectives**](Arxiv)  
 
-[Hezhe Qiao](https://hezheqiao2022.github.io/), [Hanghang Tong](http://tonghanghang.org/), [Bo An](https://personal.ntu.edu.sg/boan/), [Irwin King](https://www.cse.cuhk.edu.hk/people/faculty/irwin-king/), [Charu Aggarwal](https://www.charuaggarwal.net/), [Guansong Pang](https://sites.google.com/site/gspangsite/home).
+[Hezhe Qiao](https://hezheqiao2022.github.io/), [Hanghang Tong](http://tonghanghang.org/), [Bo An](https://personal.ntu.edu.sg/boan/), [Irwin King](https://www.cse.cuhk.edu.hk/people/faculty/irwin-king/), [Charu Aggarwal](https://www.charuaggarwal.net/), [Guansong Pang](https://www.guansongpang.com/)).
 
 
 [****](Arxiv)  
@@ -39,7 +39,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 # Outline
 
-The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
+The outline corresponds to the taxonomy of methods in our [survey paper](xxx).
 
 - [1. GNN Backbone Design](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#GNN-Backbone-Design)
   - [1.1 Discriminative GNNs](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Discriminative-GNNs)
@@ -63,7 +63,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 - [5. Anomaly Detection Related Survey](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Anomaly-Detection-Related-Survey)
 - [6. Quantitative Comparison](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Quantitative-Comparison)
 
-# Category of Deep Graph Anomaly Detection
+# Categories of Deep Graph Anomaly Detection
 
 ## GNN Backbone Design 
 <img src="Fig1.png" width=900 align=middle> <br />
@@ -268,7 +268,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 
 
 
-## Graph Anomaly Measure
+## Graph Anomaly Measures
 <img src="Fig3.png" width=900 align=middle> <br />
 ### One-class Classification Measure
 
@@ -310,7 +310,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 - [Zhuang2023] Subgraph Centralization: A Necessary Step for Graph Anomaly Detection in *SDM*,2023.  [\[paper\]](https://arxiv.org/abs/2301.06794)[\[code\]](https://github.com/IsolationKernel/Codes)
 
 
-## Graph Anomaly Detection Related Survey
+## Related Surveys on Graph Anomaly Detection 
 
 - [Ma2021] A Comprehensive Survey on Graph Anomaly Detection with Deep Learning in *TKDE*, 2021.  [\[paper\]](https://arxiv.org/abs/2106.07178)
 
@@ -324,9 +324,9 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx).
 
 - [Wang2024] Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection:A Benchmark in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2406.15523)[\[code\]](https://github.com/UB-GOLD/UB-GOLD)
 
-##  Anomaly Detection Related Survey
+##  Related Surveys on Anomaly Detection 
 
-- [Pang2020] Deep Learning for Anomaly Detection: A Review in *CSUR*, 2020. [\[paper\]](https://arxiv.org/abs/2007.02500)
+- [Pang2021] Deep Learning for Anomaly Detection: A Review in *CSUR*, 2021. [\[paper\]](https://arxiv.org/abs/2007.02500)
 
 - [Jiang2023] Weakly Supervised Anomaly Detection: A Survey in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2302.04549)[\[code\]](https://github.com/yzhao062/wsad)
 
