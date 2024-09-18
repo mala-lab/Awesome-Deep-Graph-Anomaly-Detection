@@ -44,7 +44,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 # Outline
 
-The outline corresponds to the taxonomy of methods in our [survey paper](xxx).
+The outline corresponds to the taxonomy of methods in our [survey paper](https://arxiv.org/abs/2409.09957).
 
 - [1. GNN Backbone Design](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#GNN-Backbone-Design)
   - [1.1 Discriminative GNNs](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Discriminative-GNNs)
