@@ -447,7 +447,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 | DGraph           | 3,700,550         | 4,300,999         | 17                     | Large         | 1.3\%            | Genuine               | Loan Guarantor       |      [\[Link\]]()                 |
 | Elliptic         | 203,769           | 234,355           | 166                    | Large         | 9.8\%            | Genuine               | Payment Flow         |   [\[Link\]]()    |
 | Tolokers         | 11,758            | 519,000           | 10                     | Medium        | 21.8\%           | Genuine               | Work Collaboration   |   [\[Link\]]()                                       |
-| Questions        | 48,921            | 153,540           | 301                    | Medium        | 3.0\%            | Genuine               | Question Answering   |  |[\[Link\]]()   |
+| Questions        | 48,921            | 153,540           | 301                    | Medium        | 3.0\%            | Genuine               | Question Answering   |   [\[Link\]]()   |
 | Disney           | 124               | 335               | 28                     | Small         | 4.8\%            | Genuine               | Co-purchase          |  [\[Link\]]()                                             |
 | Books            | 1,418             | 3,695             | 21                     | Small         | 2.0\%            | Genuine               | Co-purchase          |   [\[Link\]]()                                                   |
 | Enron            | 13,533            | 176,987           | 18                     | Medium        | 0.4\%            | Genuine               | Email network        |   [\[Link\]]()    |
