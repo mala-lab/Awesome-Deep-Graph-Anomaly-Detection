@@ -66,8 +66,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
     - [3.4 Graph Isolation](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Isolation)
 - [4. Graph Anomaly Detection Related Survey](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Anomaly-Detection-Related-Survey)
 - [5. Anomaly Detection Related Survey](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Anomaly-Detection-Related-Survey)
-- [6. Quantitative Comparison](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Datasets)
-
+- [6. Quantitative Comparison](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Quantitative-Comparison)
+- [7. Datasets](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Datasets)
+- 
 # Categories of Deep Graph Anomaly Detection
 
 ## 1. GNN Backbone Design 
@@ -427,7 +428,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 
 
-#### Datasets
+## 7.Datasets
 
 | Dataset | # Nodes | # Edges | # Attributes | Size | Anomaly | Anomaly Type | Domain      | Download Link                                                              |
 |------------------|-------------------|-------------------|------------------------|---------------|------------------|-----------------------|----------------------|-----------------------------------------------------------------------------------|
