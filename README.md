@@ -429,7 +429,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 
 
-## 7.Datasets
+## 7. Datasets
 
 | Dataset | # Nodes | # Edges | # Attributes | Size | Anomaly | Anomaly Type | Domain      | Download Link                                                              |
 |------------------|-------------------|-------------------|------------------------|---------------|------------------|-----------------------|----------------------|-----------------------------------------------------------------------------------|
