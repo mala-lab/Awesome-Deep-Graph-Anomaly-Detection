@@ -68,7 +68,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [5. Anomaly Detection Related Survey](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Anomaly-Detection-Related-Survey)
 - [6. Quantitative Comparison](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Quantitative-Comparison)
 - [7. Datasets](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Datasets)
-- 
+
+  
 # Categories of Deep Graph Anomaly Detection
 
 ## 1. GNN Backbone Design 
