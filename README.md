@@ -438,7 +438,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 | ACM              | 16,484            | 71,980            | 8,337                  | Medium        | 3.6\%            | Injected              | Citation Networks    |  [\[Link\]]()                    |
 | BlogCatalog      | 5,196             | 171,743           | 8,189                  | Small         | 5.8\%            | Injected              | Social Networks      |   [\[Link\]]()                    |
 | Flickr           | 7,575             | 239,738           | 12,407                 | Medium        | 5.2\%            | Injected              | Social Networks      |   [\[Link\]]()                  |
-| OGB-arXiv        | 169,343           | 1,166,243         | 128                    | Large         | 3.5\%            | Injected              | Citation Networks    |  [\[Link\]]()                                                      |
+| OGB-arXiv        | 169,343           | 1,166,243         | 128                    | Large         | 3.5\%            | Injected              | Citation Networks    |  [\[Link\]]()        |
 | Amazon           | 11,944            | 4,398,392         | 25                     | Large         | 9.5\%            | Genuine               | Transaction Record   |  [\[Link\]]()     |
 | YelpChi          | 45,954            | 3,846,979         | 32                     | Large         | 14.5\%           | Genuine               | Reviewer Interaction |  [\[Link\]]()    |
 | T-Finance        | 39,357            | 21,222,543        | 10                     | Large         | 4.6\%            | Genuine               | Transaction Record   |    [\[Link\]]()   |
