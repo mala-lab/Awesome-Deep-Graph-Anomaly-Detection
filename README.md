@@ -66,7 +66,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
     - [3.4 Graph Isolation](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Isolation)
 - [4. Graph Anomaly Detection Related Survey](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Graph-Anomaly-Detection-Related-Survey)
 - [5. Anomaly Detection Related Survey](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Anomaly-Detection-Related-Survey)
-- [6. Quantitative Comparison](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Quantitative-Comparison)
+- [6. Quantitative Comparison](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection#Datasets)
 
 # Categories of Deep Graph Anomaly Detection
 
@@ -426,4 +426,53 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 |AUROC                | HRGCN [Li2023]            | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | /     | 0.864 | 1.000 |
 
 
+
+#### Datasets
+
+| Dataset | # Nodes | # Edges | # Attributes | Size | Anomaly | Anomaly Type | Domain      | Download Link                                                              |
+|------------------|-------------------|-------------------|------------------------|---------------|------------------|-----------------------|----------------------|-----------------------------------------------------------------------------------|
+| Cora             | 2,708             | 5,429             | 1,433                  | Small         | 5.5\%            | Injected              | Citation Networks    |   [\[Link\]]()              |
+| Citersee         | 3,327             | 4,732             | 3,703                  | Small         | 4.5\%            | Injected              | Citation Networks    | [\[Link\]]()                    |
+| ACM              | 16,484            | 71,980            | 8,337                  | Medium        | 3.6\%            | Injected              | Citation Networks    |  [\[Link\]]()                    |
+| BlogCatalog      | 5,196             | 171,743           | 8,189                  | Small         | 5.8\%            | Injected              | Social Networks      |   [\[Link\]]()                    |
+| Flickr           | 7,575             | 239,738           | 12,407                 | Medium        | 5.2\%            | Injected              | Social Networks      |   [\[Link\]]()                  |
+| OGB-arXiv        | 169,343           | 1,166,243         | 128                    | Large         | 3.5\%            | Injected              | Citation Networks    |  [\[Link\]]()                                                      |
+| Amazon           | 11,944            | 4,398,392         | 25                     | Large         | 9.5\%            | Genuine               | Transaction Record   |  [\[Link\]]()     |
+| YelpChi          | 45,954            | 3,846,979         | 32                     | Large         | 14.5\%           | Genuine               | Reviewer Interaction |  [\[Link\]]()    |
+| T-Finance        | 39,357            | 21,222,543        | 10                     | Large         | 4.6\%            | Genuine               | Transaction Record   |    [\[Link\]]()   |
+| T-Social         | 5,781,065         | 73,105,508        | 10                     | Large         | 3.0\%            | Genuine               | Social Network       |      [\[Link\]]()                  |
+| Weibo            | 8,405             | 407,963           | 400                    | Small         | 10.3\%           | Genuine               | Under Same Hashtag   |   [\[Link\]]()     |
+| DGraph           | 3,700,550         | 4,300,999         | 17                     | Large         | 1.3\%            | Genuine               | Loan Guarantor       |      [\[Link\]]()                 |
+| Elliptic         | 203,769           | 234,355           | 166                    | Large         | 9.8\%            | Genuine               | Payment Flow         |   [\[Link\]]()    |
+| Tolokers         | 11,758            | 519,000           | 10                     | Medium        | 21.8\%           | Genuine               | Work Collaboration   |   [\[Link\]]()                                       |
+| Questions        | 48,921            | 153,540           | 301                    | Medium        | 3.0\%            | Genuine               | Question Answering   |  |[\[Link\]]()   
+| Disney           | 124               | 335               | 28                     | Small         | 4.8\%            | Genuine               | Co-purchase          |  [\[Link\]]()                                             |
+| Books            | 1,418             | 3,695             | 21                     | Small         | 2.0\%            | Genuine               | Co-purchase          |   [\[Link\]]()                                                   |
+| Enron            | 13,533            | 176,987           | 18                     | Medium        | 0.4\%            | Genuine               | Email network        |   [\[Link\]]()    |
+| Reddit           | 10,984            | 168,016           | 64                     | Medium        | 3.3\%            | Genuine               | User-subreddit       |    [\[Link\]]()     |
+
+
+| Dataset | # Graphs                               | # Avg. Nodes | # Edges | Anomaly | Domain    | Homo./Heter. | Download Link                                            |
+|------------------|--------------------------------------------------|------------------------|-------------------|------------------|--------------------|-----------------------|---------------------------------------------------------------|
+| KKI              | 83                                               | 190                    | 237.4             | 44.6\%           | Bioinformatics     | Homo.                 |  [\[Link\]]()                  |
+| OHSU             | 79                                               | 82.01                  | 199.66            | 44.3\%           | Bioinformatics     | Homo.                 |   [\[Link\]]()                           |
+| MUTAG            | 188                                              | 17.93                  | 19.79             | 33.5\%           | Molecules          | Homo.                 | [\[Link\]]() 
+| PROTEINSfull     | 1,113                                            | 39.06                  | 72.82             | 40.4\%           | Bioinformatics     | Homo.                 |   [\[Link\]]()   |
+| ENZYMES          | 600                                              | 32.63                  | 62.14             | 16.7\%           | Bioinformatics     | Homo.                 |    [\[Link\]]()                                        |
+| AIDS             | 2,000                                            | 15.69                  | 16.2              | 20.0\%           | Chemical Structure | Homo.                 |   [\[Link\]]() |
+| BZR              | 405                                              | 35.75                  | 38.36             | 21.0\%           | Molecules          | Homo.                 |    [\[Link\]]()            |
+| COX2             | 467                                              | 41.22                  | 43.45             | 21.8\%           | Molecules          | Homo.                 |     [\[Link\]]()               |
+| DD               | 1,178                                            | 284.32                 | 715.66            | 41.3\%           | Bioinformatics     | Homo.                 |     [\[Link\]]()               |
+| NCI1             | 4,110                                            | 29.87                  | 32.3              | 49.9\%           | Molecules          | Homo.                 |      [\[Link\]]()           |
+| IMDB             | 1,000                                            | 19.77                  | 96.53             | 50.0\%           | Social Networks    | Homo.                 |      [\[Link\]]()                       |
+| REDDIT           | 2,000                                            | 429.63                 | 497.75            | 50.0\%           | Social Networks    | Homo.                 |     [\[Link\]]()  |
+| HSE              | 8,417                                            | 16.89                  | 17.23             | 5.2\%            | Molecules          | Homo.                 |    [\[Link\]]()                                |
+| MMP              | 7,558                                            | 17.62                  | 17.98             | 15.6\%           | Molecules          | Homo.                 |     [\[Link\]]()                             |
+| p53              | 8,903                                            | 17.92                  | 18.34             | 6.3\%            | Molecules          | Homo.                 |      [\[Link\]]()                              |
+| PPAR-gamma       | 8,451                                            | 17.38                  | 17.72             | 2.8\%            | Molecules          | Homo.                 |       [\[Link\]]()                             |
+| COLLAB           | 5,000                                            | 74.49                  | 2,457.78          | 15.5\%           | Social Networks    | Homo.                 |       [\[Link\]]()                             |
+| Mutagenicit      | 4,337                                            | 30.32                  | 30.77             | 44.6\%           | Molecules          | Homo.                 |          [\[Link\]]()                              |
+| DHFR             | 756                                              | 42.43                  | 44.54             | 39.0\%           | Molecules          | Homo.                 |       [\[Link\]]()           |
+| TraceLog         | 132,485                                          | 205                    | 224               | 17.6\%           | Log Sequences      | Heter.                |            [\[Link\]]()                                   |
+| FlowGraph        | 600                                              | 8,411                  | 12,730            | 16.7\%           | System Flow        | Heter.                |          [\[Link\]]()                                    |
 
