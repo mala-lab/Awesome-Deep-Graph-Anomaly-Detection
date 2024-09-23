@@ -70,12 +70,12 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 # Categories of Deep Graph Anomaly Detection
 
-## GNN Backbone Design 
+## 1. GNN Backbone Design 
 <img src="Fig1.png" width=900 align=middle> <br />
 
-### Discriminative GNNs
+### 1.1 Discriminative GNNs
 
-#### Aggregation Mechanism
+#### 1.1.1 Aggregation Mechanism
 
 - [Dou2020] Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters in *CIKM*, 2020. [\[paper\]](https://arxiv.org/abs/2008.08692)[\[code\]](https://github.com/YingtongDou/CARE-GNN)
 
@@ -108,7 +108,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Gao2024] Graph Anomaly Detection with Bi-level Optimization in *WebConf*, 2024. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3589334.3645673)[\[code\]](https://github.com/blacksingular/Bio-GNN)
 
 
-#### Feature Transformation
+#### 1.1.2 Feature Transformation
 
 - [Chai2022] Can Abnormality be Detected by Graph Neural Networks? in *IJCAI*, 2022. [\[paper\]](http://yangy.org/works/gnn/IJCAI22_Abnormality.pdf)[\[code\]](https://github.com/zjunet/AMNet)
 
@@ -122,9 +122,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 
 
-### Generative GNNs
+### 1.2 Generative GNNs
 
-#### Feature Interpolation
+#### 1.2.1 Feature Interpolation
 
 - [Zhao2021] GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks in *WSDM*, 2021 [\[paper\]](https://arxiv.org/abs/2103.08826)[\[code\]](https://github.com/TianxiangZhao/GraphSmote)
  
@@ -144,7 +144,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Chen2024] Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision in *ICLR*, 2024. [\[paper\]](https://openreview.net/pdf?id=elMKXvhhQ9)[\[code\]](https://github.com/Xtra-Computing/ConsisGAD)
 
-#### Noise Perturbation
+#### 1.2.2 Noise Perturbation
 
 
 - [Cai2023] Self-Discriminative Modeling for Anomalous Graph Detection in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2310.06261)
@@ -157,11 +157,11 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
   
 - [Qiao2024] Generative Semi-supervised Graph Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2402.11887)[\[code\]](https://github.com/mala-lab/GGAD)
 
-## Proxy Task Design
+## 2. Proxy Task Design
 
 <img src="Fig2.png" width=900 align=middle> <br />
 
-### Graph Reconstruction 
+### 2.1 Graph Reconstruction 
 
 - [Yu2018] NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks in *KDD*, 2018. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3219819.3220024)[\[code\]](https://github.com/chengw07/NetWalk)
 
@@ -199,7 +199,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Liu2024] STRIPE Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly Detection in Dynamic Graphs in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2403.09039)
 
-### Graph Contrastive Learning
+### 2.2 Graph Contrastive Learning
 
 - [Jin2021] ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning in *CIKM*, 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3459637.3482057)
 
@@ -242,7 +242,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Kong2024] Federated Graph Anomaly Detection via Contrastive Self-Supervised Learning in *TNNLS*, 2024. [\[paper\]](https://ieeexplore.ieee.org/document/10566052)
 
 
-### Graph Representation Distillati 
+### 2.3 Graph Representation Distillation 
 
 - [Ma2020] Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation in *CIKM*, 2020. [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3412070)[\[code\]](https://git.io/GLocalKD)
 
@@ -251,7 +251,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Cai2024] FGAD: Self-boosted Knowledge Distillation for An Effective Federated Graph Anomaly Detection Framework in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2402.12761)
 
 
-### Adversarial Graph Learning
+### 2.4 Adversarial Graph Learning
 
 - [Chen2020] Generative Adversarial Attributed Network Anomaly Detection in *CIKM*, 2020. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3340531.3412070)[\[code\]](https://github.com/pygod-team/pygod)
 
@@ -261,7 +261,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Meng2023] Generative Graph Augmentation for Minority Class in Fraud Detection  in *Arxiv*, 2023. [\[paper\]](https://dl.acm.org/doi/10.1145/3583780.3615255)[\[code\]](https://github.com/ChunjingXiao/CFAD)
 
-### Score Prediction
+### 2.5 Score Prediction
 
 - [Pang2019] DevNet Deep Anomaly Detection with Deviation Networks in *KDD*, 2019. [\[paper\]](https://arxiv.org/abs/1911.08623)[\[code\]](https://github.com/GuansongPang/deviation-network)
 
@@ -273,9 +273,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 
 
-## Graph Anomaly Measures
+## 3. Graph Anomaly Measures
 <img src="Fig3.png" width=900 align=middle> <br />
-### One-class Classification Measure
+### 3.1 One-class Classification Measure
 
 - [Teng2018] Deep into Hypersphere: Robust and Unsupervised Anomaly Discovery in Dynamic Networks in *IJCAI*, 2018. [\[paper\]](https://www.ijcai.org/proceedings/2018/0378.pdf)[\[code\]](https://github.com/picsolab/DeepSphere)
 
@@ -288,7 +288,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Zhang2023] Deep Graph-level Orthogonal Hypersphere Compression for Anomaly Detection in *ICLR*, 2024. [\[paper\]](https://arxiv.org/abs/2302.06430)[\[code\]](https://github.com/wownice333/DOHSC-DO2HSC)
 
 
-### Community Adherence
+### 3.2 Community Adherence
 
 - [Yu2018] NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks in *KDD*, 2018. [\[paper\]](https://dl.acm.org/doi/10.1145/3219819.3220024)[\[code\]](https://github.com/chengw07/NetWalk)
   
@@ -296,7 +296,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 
 
-### Local Affinity
+### 3.3 Local Affinity
 
 - [Kim2023] Class Label-aware Graph Anomaly Detection in *CIKM*, 2023. [\[paper\]](https://arxiv.org/abs/2308.11669)[\[code\]](https://github.com/jhkim611/CLAD)
 
@@ -308,14 +308,14 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 
 
-### Graph Isolation 
+### 3.4 Graph Isolation 
 
 - [Xu2023] Deep Isolation Forest for Anomaly Detection in *TKDE*, 2023. [\[paper\]](https://arxiv.org/abs/2206.06602)[\[code\]](https://github.com/xuhongzuo/deep-iforest)
 
 - [Zhuang2023] Subgraph Centralization: A Necessary Step for Graph Anomaly Detection in *SDM*,2023.  [\[paper\]](https://arxiv.org/abs/2301.06794)[\[code\]](https://github.com/IsolationKernel/Codes)
 
 
-## Related Surveys on Graph Anomaly Detection 
+## 4. Related Surveys on Graph Anomaly Detection 
 
 - [Ma2021] A Comprehensive Survey on Graph Anomaly Detection with Deep Learning in *TKDE*, 2021.  [\[paper\]](https://arxiv.org/abs/2106.07178)
 
@@ -329,7 +329,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Wang2024] Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection:A Benchmark in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2406.15523)[\[code\]](https://github.com/UB-GOLD/UB-GOLD)
 
-##  Related Surveys on Anomaly Detection 
+##  5. Related Surveys on Anomaly Detection 
 
 - [Pang2021] Deep Learning for Anomaly Detection: A Review in *CSUR*, 2021. [\[paper\]](https://arxiv.org/abs/2007.02500)
 
@@ -337,7 +337,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Xu2024] Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2409.01980)
 
-## Quantitative Comparison
+## 6. Quantitative Comparison
 #### Quantitative comparison of node-level anomaly detection on datasets with manually injected (synthetic) anomalies
 |Metric   | Setting  | Cora | Citeseer | ACM | BlogCatalog | Flicker | Pubmed | Facebook | Reddit | Weibo |
 |---|------|----------|-----|-------------|---------|--------|----------|--------|-------|-------|
