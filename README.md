@@ -21,14 +21,11 @@ We will continue to update this list with the latest resources. If you find any 
 #### If you find this repository helpful for your work, please kindly cite our paper.
 
 ```bibtex
-@misc{qiao2024deepgraphanomalydetection,
-      title={Deep Graph Anomaly Detection: A Survey and New Perspectives}, 
-      author={Hezhe Qiao and Hanghang Tong and Bo An and Irwin King and Charu Aggarwal and Guansong Pang},
-      year={2024},
-      eprint={2409.09957},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2409.09957}, 
+@article{qiao2024deep,
+  title={Deep Graph Anomaly Detection: A Survey and New Perspectives},
+  author={Qiao, Hezhe and Tong, Hanghang and An, Bo and King, Irwin and Aggarwal, Charu and Pang, Guansong},
+  journal={arXiv preprint arXiv:2409.09957},
+  year={2024}
 }
 ```
 
