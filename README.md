@@ -106,7 +106,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Gao2024] Graph Anomaly Detection with Bi-level Optimization in *WebConf*, 2024. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3589334.3645673)[\[code\]](https://github.com/blacksingular/Bio-GNN)
 
-
+- [Guo2024] Graph Local Homophily Network for Anomaly Detection in *CIKM*, 2024.  [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679785)
+  
 #### 1.1.2 Feature Transformation
 
 - [Chai2022] Can Abnormality be Detected by Graph Neural Networks? in *IJCAI*, 2022. [\[paper\]](http://yangy.org/works/gnn/IJCAI22_Abnormality.pdf)[\[code\]](https://github.com/zjunet/AMNet)
@@ -142,6 +143,10 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Liu2024] Class-Imbalanced Graph Learning without Class Rebalancing in *ICML*, 2024. [\[paper\]](https://arxiv.org/abs/2308.14181)[\[code\]](https://github.com/ZhiningLiu1998/BAT)
 
 - [Chen2024] Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision in *ICLR*, 2024. [\[paper\]](https://openreview.net/pdf?id=elMKXvhhQ9)[\[code\]](https://github.com/Xtra-Computing/ConsisGAD)
+
+- [Zhou2024] Graph Anomaly Detection with Adaptive Node Mixup *CIKM*, 2024.  [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679577)
+  
+
 
 #### 1.2.2 Noise Perturbation
 
@@ -197,6 +202,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [He2024] ADA-GAD:Anomaly-Denoised Autoencoders for Graph Anomaly Detection in *AAAI*, 2024. [\[paper\]](https://arxiv.org/abs/2312.14535)[\[code\]](https://github.com/jweihe/ADA-GAD)
 
 - [Liu2024] STRIPE Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly Detection in Dynamic Graphs in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2403.09039)
+
+- [Zou2024] A Structural Information Guided Hierarchical Reconstruction for Graph Anomaly Detection in *CIKM*, 2024.  [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679869)
+  
 
 ### 2.2 Graph Contrastive Learning
 
