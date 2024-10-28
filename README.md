@@ -252,6 +252,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Chen2024] Towards Cross-domain Few-shot Graph Anomaly Detection in *ICDM*, 2024. [\[paper\]](https://arxiv.org/abs/2410.08629)
 
+- [Niu2024]  Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2410.14886)[\[code\]](https://github.com/mala-lab/UNPrompt)
 
 ### 2.3 Graph Representation Distillation 
 
