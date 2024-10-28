@@ -248,6 +248,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Kong2024] Federated Graph Anomaly Detection via Contrastive Self-Supervised Learning in *TNNLS*, 2024. [\[paper\]](https://ieeexplore.ieee.org/document/10566052)
 
+- [Chen2024] Towards Cross-domain Few-shot Graph Anomaly Detection in *ICDM*, 2024. [\[paper\]](https://arxiv.org/abs/2410.08629)
+
 
 ### 2.3 Graph Representation Distillation 
 
