@@ -144,7 +144,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Chen2024] Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision in *ICLR*, 2024. [\[paper\]](https://openreview.net/pdf?id=elMKXvhhQ9)[\[code\]](https://github.com/Xtra-Computing/ConsisGAD)
 
-- [Zhou2024] Graph Anomaly Detection with Adaptive Node Mixup *CIKM*, 2024.  [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679577)
+- [Zhou2024] Graph Anomaly Detection with Adaptive Node Mixup in *CIKM*, 2024.  [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679577)
+
+- [Kim2024] ANOMIX: A Simple yet Effective Hard Negative Generation via Mixing for Graph Anomaly Detection  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/pdf/2410.20310)[\[code\]](https://github.com/missinghwan/ANOMIX)
   
 
 
