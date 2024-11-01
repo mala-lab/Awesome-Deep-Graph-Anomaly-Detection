@@ -283,7 +283,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Zhou2023] Learning Node Abnormality with Weak Supervision in *CIKM*, 2023. [\[paper\]](https://dl.acm.org/doi/10.1145/3583780.3614950)
 
-
+- [Xu2024] MetaGAD: Meta Representation Adaptation for Few-Shot Graph Anomaly Detection in *DSAA*, 2024. [\[paper\]](https://arxiv.org/abs/2305.10668)[\[code\]](https://github.com/XiongxiaoXu/MetaGAD)
 
 ## 3. Graph Anomaly Measures
 <img src="Fig3.png" width=900 align=middle> <br />
