@@ -107,6 +107,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Gao2024] Graph Anomaly Detection with Bi-level Optimization in *WebConf*, 2024. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3589334.3645673)[\[code\]](https://github.com/blacksingular/Bio-GNN)
 
 - [Guo2024] Graph Local Homophily Network for Anomaly Detection in *CIKM*, 2024.  [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679785)
+
+- [Ma2024] Revisiting Score Propagation in Graph Out-of-Distribution Detection in *NeurIPS*, 2024. [\[paper\]](https://openreview.net/pdf/ad80247eca2415be71eec61e079ef8d2652d72fd.pdf)[\[code\]](https://github.com/longfei-ma/GRASP)
   
 #### 1.1.2 Feature Transformation
 
