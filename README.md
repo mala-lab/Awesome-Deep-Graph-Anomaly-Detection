@@ -325,7 +325,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Liu2024] ARC: A Generalist Graph Anomaly Detector with In-Context Learning in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2405.16771)
 
-
+- [Wang2024] Context Correlation Discrepancy Analysis for Graph Anomaly Detection in *TKDE*, 2024.  [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10746358)
 
 ### 3.4 Graph Isolation 
 
