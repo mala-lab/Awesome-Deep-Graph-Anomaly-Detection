@@ -217,6 +217,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Li2024] UMGAD: Unsupervised Multiplex Graph Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2411.12556)
 
+- [Ma2024] Rethinking Unsupervised Graph Anomaly Detection with Deep Learning: Residuals and Objectives in *TKDE*, 2024. [\[paper\]](https://www.computer.org/csdl/journal/tk/5555/01/10756792/21Yk7cJh9dK)
+  
 ### 2.2 Graph Contrastive Learning
 
 - [Jin2021] ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning in *CIKM*, 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3459637.3482057)
