@@ -480,6 +480,10 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 | Enron            | 13,533            | 176,987           | 18                     | Medium        | 0.4\%            | Genuine               | Email network        |   [\[Link\]]()    |
 | Reddit           | 10,984            | 168,016           | 64                     | Medium        | 3.3\%            | Genuine               | User-subreddit       |    [\[Link\]]()     |
 | Photo            |7,535              | 119,043           | 745                    | Small        | 9.2\%             | Genuine               | Co-purchase       |    [\[Link\]]()     |
+|Computers         | 767               |13,381             |5                       | Small         | 15.42\%          | Genuine               | Co-purchase       |    [\[Link\]]()     |
+|CS                |6,805              | 18,333            |8                        | Small        |  22.69 \%           | Genuine               | Co-purchase       |    [\[Link\]]()     |
+
+
 
 | Dataset | # Graphs                               | # Avg. Nodes | # Edges | Anomaly | Domain    | Homo./Heter. | Download Link                                            |
 |------------------|--------------------------------------------------|------------------------|-------------------|------------------|--------------------|-----------------------|---------------------------------------------------------------|
