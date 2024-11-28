@@ -479,7 +479,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 | Books            | 1,418             | 3,695             | 21                     | Small         | 2.0\%            | Genuine               | Co-purchase          |   [\[Link\]]()                                                   |
 | Enron            | 13,533            | 176,987           | 18                     | Medium        | 0.4\%            | Genuine               | Email network        |   [\[Link\]]()    |
 | Reddit           | 10,984            | 168,016           | 64                     | Medium        | 3.3\%            | Genuine               | User-subreddit       |    [\[Link\]]()     |
-
+| Photo            |7,535              | 119,043           | 745                    | Small        | 9.2\%             | Genuine               | Co-purchase       |    [\[Link\]]()     |
 
 | Dataset | # Graphs                               | # Avg. Nodes | # Edges | Anomaly | Domain    | Homo./Heter. | Download Link                                            |
 |------------------|--------------------------------------------------|------------------------|-------------------|------------------|--------------------|-----------------------|---------------------------------------------------------------|
