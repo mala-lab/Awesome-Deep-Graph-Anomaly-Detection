@@ -288,6 +288,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Meng2023] Generative Graph Augmentation for Minority Class in Fraud Detection  in *Arxiv*, 2023. [\[paper\]](https://dl.acm.org/doi/10.1145/3583780.3615255)[\[code\]](https://github.com/ChunjingXiao/CFAD)
 
+- [Liu2024] CDCGAN: Class Distribution-aware Conditional GAN-based minority augmentation for imbalanced node classification in *Neural Networks*, 2024.  [\[paper\]](https://www.sciencedirect.com/science/article/pii/S08936080240086215)[\[code\]](https://github.com/Crystal-LiuBojia/CDCGAN)
 ### 2.5 Score Prediction
 
 - [Pang2019] DevNet Deep Anomaly Detection with Deviation Networks in *KDD*, 2019. [\[paper\]](https://arxiv.org/abs/1911.08623)[\[code\]](https://github.com/GuansongPang/deviation-network)
