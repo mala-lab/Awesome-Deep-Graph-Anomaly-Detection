@@ -111,7 +111,11 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Ma2024] Revisiting Score Propagation in Graph Out-of-Distribution Detection in *NeurIPS*, 2024. [\[paper\]](https://openreview.net/pdf/ad80247eca2415be71eec61e079ef8d2652d72fd.pdf)[\[code\]](https://github.com/longfei-ma/GRASP)
 
 - [Lin2024] UniGAD: Unifying Multi-level Graph Anomaly Detection in *NeurIPS*, 2024. [\[paper\]](https://openreview.net/pdf?id=sRILMnkkQd)[\[code\]](https://github.com/lllyyq1121/UniGAD)
-  
+
+- [Hyun2024] LEX-GNN: Label-Exploring Graph Neural Network for Accurate Fraud Detection in *CIKM*, 2024. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679956)[\[code\]](https://github.com/wdhyun/LEX-GNN)
+
+- [Liu2024] Collaborative Fraud Detection on Large Scale Graph Using Secure Multi-Party Computation in *CIKM*, 2024. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679863)
+
 #### 1.1.2 Feature Transformation
 
 - [Chai2022] Can Abnormality be Detected by Graph Neural Networks? in *IJCAI*, 2022. [\[paper\]](http://yangy.org/works/gnn/IJCAI22_Abnormality.pdf)[\[code\]](https://github.com/zjunet/AMNet)
@@ -123,6 +127,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Dong2023] Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection in *ICLR*, 2024.[\[paper\]](https://arxiv.org/pdf/2310.02861)[\[code\]](https://github.com/xydong127/RQGNN)
 
 - [Dong2024] SmoothGNN: Smoothing-based GNN for Unsupervised Node Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2405.17525)
+
+- [Ren2024] Heterophilic Graph Invariant Learning for Out-of-Distribution of Fraud Detection  in *ACM MM*, 2024. [\[paper\]](https://openreview.net/pdf?id=JnG3wI5E5P)
 
 
 
