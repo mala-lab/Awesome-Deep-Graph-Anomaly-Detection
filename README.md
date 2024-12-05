@@ -274,7 +274,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Niu2024]  Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2410.14886)[\[code\]](https://github.com/mala-lab/UNPrompt)
   
 - [Cheng2024] Graph Pre-Training Models Are Strong Anomaly Detectors in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2410.18487)
-
+  
+- [Lian2024] Graph Anomaly Detection via Multi-ViewDiscriminative Awareness Learning in *TNSE*, 2024. [\[paper\]](https://ieeexplore.ieee.org/document/10682061)
+  
 ### 2.3 Graph Representation Distillation 
 
 - [Ma2020] Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation in *CIKM*, 2020. [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3412070)[\[code\]](https://git.io/GLocalKD)
