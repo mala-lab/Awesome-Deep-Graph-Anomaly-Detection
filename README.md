@@ -327,6 +327,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Zhang2023] Deep Graph-level Orthogonal Hypersphere Compression for Anomaly Detection in *ICLR*, 2024. [\[paper\]](https://arxiv.org/abs/2302.06430)[\[code\]](https://github.com/wownice333/DOHSC-DO2HSC)
 
+- [Alam2024] Hyperedge Anomaly Detection with Hypergraph Neural Network in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2412.05641)
 
 ### 3.2 Community Adherence
 
