@@ -390,6 +390,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Xu2024] Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2409.01980)
 
+- [Yang2024] AD-LLM: Benchmarking Large Language Models for Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2412.11142)
+  
 ## 6. Quantitative Comparison
 #### Quantitative comparison of node-level anomaly detection on datasets with manually injected (synthetic) anomalies
 |Metric   | Setting  | Cora | Citeseer | ACM | BlogCatalog | Flicker | Pubmed | Facebook | Reddit | Weibo |
