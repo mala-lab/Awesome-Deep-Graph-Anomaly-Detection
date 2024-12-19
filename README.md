@@ -284,6 +284,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Lian2024] Graph Anomaly Detection via Multi-ViewDiscriminative Awareness Learning in *TNSE*, 2024. [\[paper\]](https://ieeexplore.ieee.org/document/10682061)
 
 - [Fu2024] HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2407.02057)[\[code\]](https://github.com/Yali-F/HC-GLAD)
+
+- [Liu2024] AnomalyLLM: Few-shot Anomaly Edge Detection for Dynamic Graphs using Large Language Models   in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2405.07626)
   
 ### 2.3 Graph Representation Distillation 
 
@@ -340,6 +342,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
   
 - [Zhou2022] Unseen Anomaly Detection on Networks via Multi-Hypersphere Learning in *SDM*, 2022. [\[paper\]](https://epubs.siam.org/doi/10.1137/1.9781611977172.30)[\[code\]](https://github.com/betterzhou/MHGL)
 
+- [Liu2024] TGTOD: A Global Temporal Graph Transformer for Outlier Detection at Scale in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/pdf/2412.00984)[\[code\]](https://github.com/kayzliu/tgtod)
 
 
 ### 3.3 Local Affinity
