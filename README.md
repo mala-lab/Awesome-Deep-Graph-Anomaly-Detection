@@ -280,6 +280,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Cheng2024] Graph Pre-Training Models Are Strong Anomaly Detectors in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2410.18487)
   
 - [Lian2024] Graph Anomaly Detection via Multi-ViewDiscriminative Awareness Learning in *TNSE*, 2024. [\[paper\]](https://ieeexplore.ieee.org/document/10682061)
+
+- [Fu2024] HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection [\[paper\]](https://arxiv.org/abs/2407.02057)[\[code\]](https://github.com/Yali-F/HC-GLAD)
   
 ### 2.3 Graph Representation Distillation 
 
