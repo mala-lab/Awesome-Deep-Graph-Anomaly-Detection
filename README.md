@@ -289,6 +289,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Cai2024] FGAD: Self-boosted Knowledge Distillation for An Effective Federated Graph Anomaly Detection Framework in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2402.12761)
 
+- [Cao2024] FANFOLD: Graph Normalizing Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2407.00383)[\[code\]](https://github.com/Goldenhorns/FANFOLD)
 
 ### 2.4 Adversarial Graph Learning
 
