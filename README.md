@@ -144,6 +144,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Liu2022] DAGAD: Data Augmentation for Graph Anomaly Detection in *ICDM*, 2022. [\[paper\]](https://arxiv.org/abs/2210.09766)[\[code\]](https://github.com/FanzhenLiu/DAGAD)
 
+- [Huang2022] End-to-End Open-Set Semi-Supervised Node Classification with Out-of-Distribution Detection in *IJCAI*, 2022.  [\[paper\]](https://www.ijcai.org/proceedings/2022/0290.pdf)
+
 - [Lou2023] GADY Unsupervised Anomaly Detection on Dynamic Graphs in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2310.16376)
 
 - [Meng2023] Generative Graph Augmentation for Minority Class in Fraud Detection in *CIKM*, 2023. [\[paper\]](https://dl.acm.org/doi/10.1145/3583780.3615255)
