@@ -344,6 +344,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Liu2024] TGTOD: A Global Temporal Graph Transformer for Outlier Detection at Scale in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/pdf/2412.00984)[\[code\]](https://github.com/kayzliu/tgtod)
 
+- [Zhang2024] FCMH: Fast Cluster Multi-hop Model for Graph Fraud Detection in *ADMA*, 2024.  [\[paper\]](https://link.springer.com/chapter/10.1007/978-981-96-0821-8_3)
 
 ### 3.3 Local Affinity
 
