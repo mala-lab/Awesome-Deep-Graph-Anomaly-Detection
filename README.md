@@ -176,7 +176,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Qiao2024] Generative Semi-supervised Graph Anomaly Detection in *NeurIPS*, 2024. [\[paper\]](https://arxiv.org/abs/2402.11887)[\[code\]](https://github.com/mala-lab/GGAD)
 
 - [Li2024] DiffGAD: A Diffusion-based unsupervised graph anomaly detector in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/pdf/2410.06549)[\[code\]](https://github.com/fortunato-all/LJH_DiffGAD)
-  
+
+- [Choi2024] Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks against GNN-Based Fraud Detectors in *AAAI*, 2025.  [\[paper\]](https://arxiv.org/pdf/2412.18370)[\[code\]](https://github.com/bdi-lab/MonTi)
+
 ## 2. Proxy Task Design
 
 <img src="Fig2.png" width=900 align=middle> <br />
