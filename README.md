@@ -116,7 +116,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Liu2024] Collaborative Fraud Detection on Large Scale Graph Using Secure Multi-Party Computation in *CIKM*, 2024. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679863)
 
-- [Yang12024] A Generalizable Anomaly Detection Method in Dynamic Graph in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2412.16447)[\[code\]](https://github.com/YXNTU/GeneralDyG)
+- [Yang12024] A Generalizable Anomaly Detection Method in Dynamic Graph in *AAAI*, 2024. [\[paper\]](https://arxiv.org/pdf/2412.16447)[\[code\]](https://github.com/YXNTU/GeneralDyG)
 
 
 #### 1.1.2 Feature Transformation
