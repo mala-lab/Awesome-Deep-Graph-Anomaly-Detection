@@ -291,6 +291,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Fu2024] HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2407.02057)[\[code\]](https://github.com/Yali-F/HC-GLAD)
 
 - [Liu2024] AnomalyLLM: Few-shot Anomaly Edge Detection for Dynamic Graphs using Large Language Models   in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2405.07626)
+
+- [Zheng2024] Towards Multi-view Graph Anomaly Detection with Similarity-Guided Contrastive Clustering in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/pdf/2409.09770)
   
 ### 2.3 Graph Representation Distillation 
 
