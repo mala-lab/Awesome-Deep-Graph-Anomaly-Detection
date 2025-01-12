@@ -235,7 +235,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Xi2024] Identifying Local Useful Information for Attribute Graph Anomaly Detection  in *Neurocomputing*, 2024. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0925231224016710)
 
 - [Xi2024] NMFAD: Neighbor-aware Mask-Filling Attributed Network Anomaly Detection in *TIFS*, 2024. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10795163)
-  
+
+- [Zade2024] DCOR: Anomaly Detection in Attributed Networks via Dual Contrastive Learning Reconstruction in *ICCNA*, 2024. [\[paper\]](https://arxiv.org/pdf/2412.16788)
+
 ### Graph Contrastive Learning
 
 - [Jin2021] ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning in *CIKM*, 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3459637.3482057)
@@ -294,7 +296,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Zheng2024] Towards Multi-view Graph Anomaly Detection with Similarity-Guided Contrastive Clustering in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/pdf/2409.09770)
 
-- [Wang2024] Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization in *ICDM*, 2024.  [\[paper\]](https://arxiv.org/pdf/2501.04102)
+- [Wang2024] Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization in *ICDM*, 2025.  [\[paper\]](https://arxiv.org/pdf/2501.04102)
   
 ### Graph Representation Distillation 
 
