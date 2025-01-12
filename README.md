@@ -293,6 +293,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Liu2024] AnomalyLLM: Few-shot Anomaly Edge Detection for Dynamic Graphs using Large Language Models   in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2405.07626)
 
 - [Zheng2024] Towards Multi-view Graph Anomaly Detection with Similarity-Guided Contrastive Clustering in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/pdf/2409.09770)
+
+- [Wang2024] Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization in *ICDM*, 2024.  [\[paper\]](https://arxiv.org/pdf/2501.04102)
   
 ### Graph Representation Distillation 
 
