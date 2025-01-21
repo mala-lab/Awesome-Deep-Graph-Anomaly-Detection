@@ -297,7 +297,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Zheng2024] Towards Multi-view Graph Anomaly Detection with Similarity-Guided Contrastive Clustering in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/pdf/2409.09770)
 
 - [Wang2024] Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization in *ICDM*, 2025.  [\[paper\]](https://arxiv.org/pdf/2501.04102)
-  
+
+- [Wu2025] ADKGD: Anomaly Detection in Knowledge Graphs with Dual-Channel Training in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2501.07078)[\[code\]](https://github.com/csjywu1/ADKGD)
+   
 ### Graph Representation Distillation 
 
 - [Ma2020] Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation in *CIKM*, 2020. [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3412070)[\[code\]](https://git.io/GLocalKD)
