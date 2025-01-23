@@ -349,6 +349,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Alam2024] Hyperedge Anomaly Detection with Hypergraph Neural Network in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2412.05641)
 
+- [Cao2025]  How to Use Graph Data in the Wild to HelpGraph Anomaly Detection? in *KDD*, 2025. [\[paper\]](http://yangy.org/works/gnn/KDD25_Wild.pdf)[\[code\]](https://github.com/zjunet/)
+ 
 ### Community Adherence
 
 - [Yu2018] NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks in *KDD*, 2018. [\[paper\]](https://dl.acm.org/doi/10.1145/3219819.3220024)[\[code\]](https://github.com/chengw07/NetWalk)
