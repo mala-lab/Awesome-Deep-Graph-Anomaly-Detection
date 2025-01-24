@@ -118,6 +118,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Yang12024] A Generalizable Anomaly Detection Method in Dynamic Graph in *AAAI*, 2024. [\[paper\]](https://arxiv.org/pdf/2412.16447)[\[code\]](https://github.com/YXNTU/GeneralDyG)
 
+- [Wang2025] Open-set Graph Anomaly Detection via Normal Structure Regularisation in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2311.06835)
 
 #### Feature Transformation
 
