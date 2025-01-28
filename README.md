@@ -120,6 +120,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Wang2025] Open-set Graph Anomaly Detection via Normal Structure Regularisation in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2311.06835)
 
+- [Hao2025] Bi-directional Curriculum Learning for Graph Anomaly Detection: Dual Focus on Homogeneity and Heterogeneity in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2501.14197)
+
 #### Feature Transformation
 
 - [Chai2022] Can Abnormality be Detected by Graph Neural Networks? in *IJCAI*, 2022. [\[paper\]](http://yangy.org/works/gnn/IJCAI22_Abnormality.pdf)[\[code\]](https://github.com/zjunet/AMNet)
@@ -300,7 +302,11 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Wang2024] Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization in *ICDM*, 2025.  [\[paper\]](https://arxiv.org/pdf/2501.04102)
 
 - [Wu2025] ADKGD: Anomaly Detection in Knowledge Graphs with Dual-Channel Training in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2501.07078)[\[code\]](https://github.com/csjywu1/ADKGD)
-   
+
+- [Chen2025] Semi-supervised Anomaly Detection with Extremely Limited Labels in Dynamic Graphs in *DASFAA*, 2025. [\[paper\]](https://arxiv.org/pdf/2501.15035)
+
+- [Li2025]  Towards Automated Self-Supervised Learning for Truly Unsupervised Graph Anomaly Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2501.14694)
+
 ### Graph Representation Distillation 
 
 - [Ma2020] Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation in *CIKM*, 2020. [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3412070)[\[code\]](https://git.io/GLocalKD)
@@ -373,6 +379,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Liu2024] ARC: A Generalist Graph Anomaly Detector with In-Context Learning in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2405.16771)
 
 - [Wang2024] Context Correlation Discrepancy Analysis for Graph Anomaly Detection in *TKDE*, 2024.  [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10746358)
+
 
 ### Graph Isolation 
 
