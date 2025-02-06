@@ -136,7 +136,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Ren2024] Heterophilic Graph Invariant Learning for Out-of-Distribution of Fraud Detection  in *ACM MM*, 2024. [\[paper\]](https://openreview.net/pdf?id=JnG3wI5E5P)
 
-
+- [Dong2025] SpaceGNN: Multi-Space Graph Neural Network for Node Anomaly Detection with Extremely Limited Labels in  *ICLR*, 2025. [\[paper\]](https://openreview.net/forum?id=Syt4fWwVm1)[\[code\]](https://github.com/xydong127/SpaceGNN)
 
 ### Generative GNNs
 
