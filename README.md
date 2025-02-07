@@ -241,6 +241,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Zade2024] DCOR: Anomaly Detection in Attributed Networks via Dual Contrastive Learning Reconstruction in *ICCNA*, 2024. [\[paper\]](https://arxiv.org/pdf/2412.16788)
 
+-[Zhou2025] Training-free Graph Anomaly Detection: A Simple Approach via Singular Value Decomposition  in *WebConf*, 2025. [\[paper\]](https://openreview.net/pdf?id=OG1qScEqHK)
+
+
 ### Graph Contrastive Learning
 
 - [Jin2021] ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning in *CIKM*, 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3459637.3482057)
