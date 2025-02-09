@@ -405,7 +405,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Qin2024] IGL-Bench: Establishing the Comprehensive Benchmark for Imbalanced Graph Learning  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2406.09870)[\[code\]](https://github.com/RingBDStack/IGL-Bench)
   
-- [Wang2024] Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection:A Benchmark in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2406.15523)[\[code\]](https://github.com/UB-GOLD/UB-GOLD)
+- [Wang2024] Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection:A Benchmark in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2406.15523)[\[code\]](https://github.com/UB-GOLD/UB-GOLD)
 
 
 
