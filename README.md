@@ -407,6 +407,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
   
 - [Wang2024] Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection:A Benchmark in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2406.15523)[\[code\]](https://github.com/UB-GOLD/UB-GOLD)
 
+- [Wang2024] Safety in Graph Machine Learning: Threats and Safeguards in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2405.11034)
+
 - [Cai2025] Out-of-Distribution Detection on Graphs: A Survey in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2502.08105)[\[code\]](https://github.com/ca1man-2022/Awesome-GOOD-Detection)
 
 ##  Related Surveys on Anomaly Detection 
