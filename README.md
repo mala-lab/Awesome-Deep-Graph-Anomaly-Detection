@@ -379,9 +379,11 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Qiao2023] Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection in *NeurIPS*, 2023. [\[paper\]](https://arxiv.org/abs/2306.00006)[\[code\]](https://github.com/mala-lab/TAM-master/)
 
-- [Liu2024] ARC: A Generalist Graph Anomaly Detector with In-Context Learning in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2405.16771)
+- [Liu2024] ARC: A Generalist Graph Anomaly Detector with In-Context Learning in *NeurIPS*, 2024.  [\[paper\]](https://arxiv.org/abs/2405.16771)[\[code\]](https://github.com/yixinliu233/ARC)
 
 - [Wang2024] Context Correlation Discrepancy Analysis for Graph Anomaly Detection in *TKDE*, 2024.  [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10746358)
+
+- [Qiao2025]  AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2502.09254)[\[code\]](https://github.com/mala-lab/AnomalyGFM)
 
 
 ### Graph Isolation 
