@@ -343,6 +343,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Xu2024] MetaGAD: Meta Representation Adaptation for Few-Shot Graph Anomaly Detection in *DSAA*, 2024. [\[paper\]](https://arxiv.org/abs/2305.10668)[\[code\]](https://github.com/XiongxiaoXu/MetaGAD)
 
+- [Lin2025] Conformal Graph-level Out-of-distribution Detection with Adaptive Data Augmentation in *WebConf*, 2025. [\[paper\]](https://openreview.net/pdf?id=qIareorXas)
+
+
 ## Graph Anomaly Measures
 <img src="Fig3.png" width=900 align=middle> <br />
 ### One-class Classification Measure
