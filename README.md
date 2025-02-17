@@ -374,6 +374,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Zhang2024] FCMH: Fast Cluster Multi-hop Model for Graph Fraud Detection in *ADMA*, 2024.  [\[paper\]](https://link.springer.com/chapter/10.1007/978-981-96-0821-8_3)
 
+- [Han2025] Mitigating the Tail Effect in Fraud Detection by Community Enhanced Multi-Relation Graph Neural Networks in *TKDE*, 2025.  [\[paper\]](https://www.computer.org/csdl/journal/tk/5555/01/10843290/23yAPifX4uk)
+
 ### Local Affinity
 
 - [Kim2023] Class Label-aware Graph Anomaly Detection in *CIKM*, 2023. [\[paper\]](https://arxiv.org/abs/2308.11669)[\[code\]](https://github.com/jhkim611/CLAD)
