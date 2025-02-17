@@ -310,6 +310,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Li2025]  Towards Automated Self-Supervised Learning for Truly Unsupervised Graph Anomaly Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2501.14694)
 
+- [Zheng2025] Cluster Aware Graph Anomaly Detection  in *WebConf*, 2025.  [\[paper\]](https://openreview.net/pdf?id=pje11KNgT6)
+
 ### Graph Representation Distillation 
 
 - [Ma2020] Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation in *CIKM*, 2020. [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3412070)[\[code\]](https://git.io/GLocalKD)
