@@ -393,7 +393,10 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Qiao2025]  AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2502.09254)[\[code\]](https://github.com/mala-lab/AnomalyGFM)
 
 - [ PirhayatI2025] Graph Anomaly Detection via Adaptive Test-time Representation Learning across Out-of-Distribution Domains in *Arxiv*, 2025.   [\[paper\]](https://arxiv.org/pdf/2502.14293)
- 
+
+- [Pan2025] A Label-Free Heterophily-Guided Approach for Unsupervised Graph Fraud Detection in *AAAI*, 2025.   [\[paper\]](https://www.arxiv.org/abs/2502.13308)[\[code\]](https://github.com/CampanulaBells/HUGE-GAD)
+
+
 ### Graph Isolation 
 
 - [Xu2023] Deep Isolation Forest for Anomaly Detection in *TKDE*, 2023. [\[paper\]](https://arxiv.org/abs/2206.06602)[\[code\]](https://github.com/xuhongzuo/deep-iforest)
