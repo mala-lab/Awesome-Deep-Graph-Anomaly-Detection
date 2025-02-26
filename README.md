@@ -122,6 +122,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Hao2025] Bi-directional Curriculum Learning for Graph Anomaly Detection: Dual Focus on Homogeneity and Heterogeneity in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2501.14197)
 
+- [Xiang2025] Enhancing Attribute-driven Fraud Detection with Risk-aware Graph Representation in *TKDE*, 2025.  [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10896835)
+ 
 #### Feature Transformation
 
 - [Chai2022] Can Abnormality be Detected by Graph Neural Networks? in *IJCAI*, 2022. [\[paper\]](http://yangy.org/works/gnn/IJCAI22_Abnormality.pdf)[\[code\]](https://github.com/zjunet/AMNet)
