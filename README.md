@@ -134,12 +134,13 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Dong2023] Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection in *ICLR*, 2024.[\[paper\]](https://arxiv.org/pdf/2310.02861)[\[code\]](https://github.com/xydong127/RQGNN)
 
-- [Dong2024] SmoothGNN: Smoothing-based GNN for Unsupervised Node Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2405.17525)
-
 - [Ren2024] Heterophilic Graph Invariant Learning for Out-of-Distribution of Fraud Detection  in *ACM MM*, 2024. [\[paper\]](https://openreview.net/pdf?id=JnG3wI5E5P)
 
 - [Dong2025] SpaceGNN: Multi-Space Graph Neural Network for Node Anomaly Detection with Extremely Limited Labels in  *ICLR*, 2025. [\[paper\]](https://openreview.net/forum?id=Syt4fWwVm1)[\[code\]](https://github.com/xydong127/SpaceGNN)
 
+- [Dong2025] SmoothGNN: Smoothing-based GNN for Unsupervised Node Anomaly Detection in *WebConf*, 2025. [\[paper\]](https://arxiv.org/abs/2405.17525)
+
+  
 ### Generative GNNs
 
 #### Feature Interpolation
@@ -183,9 +184,10 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
   
 - [Qiao2024] Generative Semi-supervised Graph Anomaly Detection in *NeurIPS*, 2024. [\[paper\]](https://arxiv.org/abs/2402.11887)[\[code\]](https://github.com/mala-lab/GGAD)
 
-- [Li2024] DiffGAD: A Diffusion-based unsupervised graph anomaly detector in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/pdf/2410.06549)[\[code\]](https://github.com/fortunato-all/LJH_DiffGAD)
-
 - [Choi2024] Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks against GNN-Based Fraud Detectors in *AAAI*, 2025.  [\[paper\]](https://arxiv.org/pdf/2412.18370)[\[code\]](https://github.com/bdi-lab/MonTi)
+
+- [Li2025] DiffGAD: A Diffusion-based unsupervised graph anomaly detector in *ICLR*, 2025.  [\[paper\]](https://arxiv.org/pdf/2410.06549)[\[code\]](https://github.com/fortunato-all/LJH_DiffGAD)
+
 
 ## Proxy Task Design
 
