@@ -247,7 +247,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Zhou2025] Training-free Graph Anomaly Detection: A Simple Approach via Singular Value Decomposition  in *WebConf*, 2025. [\[paper\]](https://openreview.net/pdf?id=OG1qScEqHK)
 
-- [Zhang2025] Attribute graph anomaly detection utilizing memory networks enhanced by multi-embedding comparison in  in *Neurocomputing*, 2025.  [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0925231225004345)
+- [Zhang2025] Attribute graph anomaly detection utilizing memory networks enhanced by multi-embedding comparison in *Neurocomputing*, 2025.  [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0925231225004345)
 
 
 ### Graph Contrastive Learning
