@@ -186,7 +186,6 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Choi2024] Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks against GNN-Based Fraud Detectors in *AAAI*, 2025.  [\[paper\]](https://arxiv.org/pdf/2412.18370)[\[code\]](https://github.com/bdi-lab/MonTi)
 
-- [Li2025] DiffGAD: A Diffusion-based unsupervised graph anomaly detector in *ICLR*, 2025.  [\[paper\]](https://arxiv.org/pdf/2410.06549)[\[code\]](https://github.com/fortunato-all/LJH_DiffGAD)
 
 
 ## Proxy Task Design
@@ -248,6 +247,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Zhou2025] Training-free Graph Anomaly Detection: A Simple Approach via Singular Value Decomposition  in *WebConf*, 2025. [\[paper\]](https://openreview.net/pdf?id=OG1qScEqHK)
 
 - [Zhang2025] Attribute graph anomaly detection utilizing memory networks enhanced by multi-embedding comparison in *Neurocomputing*, 2025.  [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0925231225004345)
+
+- [Li2025] DiffGAD: A Diffusion-based unsupervised graph anomaly detector in *ICLR*, 2025.  [\[paper\]](https://arxiv.org/pdf/2410.06549)[\[code\]](https://github.com/fortunato-all/LJH_DiffGAD)
 
 
 ### Graph Contrastive Learning
