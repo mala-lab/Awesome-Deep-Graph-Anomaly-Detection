@@ -169,10 +169,10 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Kim2024] ANOMIX: A Simple yet Effective Hard Negative Generation via Mixing for Graph Anomaly Detection  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/pdf/2410.20310)[\[code\]](https://github.com/missinghwan/ANOMIX)
   
+- [Do2025]  Tackling under-reaching issue in Beta-Wavelet filters with mixup augmentation for graph anomaly detection in *ESWA*, 2025. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0957417425006554)
 
 
 #### Noise Perturbation
-
 
 - [Cai2023] Self-Discriminative Modeling for Anomalous Graph Detection in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2310.06261)
 
