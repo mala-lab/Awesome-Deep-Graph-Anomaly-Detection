@@ -321,6 +321,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Shen2025]  Raising the Bar in Graph OOD Generalization: Invariant Learning Beyond Explicit Environment Modeling in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2502.10706)
 
+- [Yang2025] Synthesizing global and local perspectives in contrastive learning for graph anomaly detection in *KBS*, 2025. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0950705125003363?via%3Dihub) 
+
+
 ### Graph Representation Distillation 
 
 - [Ma2020] Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation in *CIKM*, 2020. [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3412070)[\[code\]](https://git.io/GLocalKD)
