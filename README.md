@@ -118,11 +118,15 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Yang12024] A Generalizable Anomaly Detection Method in Dynamic Graph in *AAAI*, 2024. [\[paper\]](https://arxiv.org/pdf/2412.16447)[\[code\]](https://github.com/YXNTU/GeneralDyG)
 
-- [Wang2025] Open-set Graph Anomaly Detection via Normal Structure Regularisation in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2311.06835)
+- [Wang2025] Open-set Graph Anomaly Detection via Normal Structure Regularisation in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2311.06835)[\[code\]]()
 
-- [Hao2025] Bi-directional Curriculum Learning for Graph Anomaly Detection: Dual Focus on Homogeneity and Heterogeneity in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2501.14197)
+- [Hao2025] Bi-directional Curriculum Learning for Graph Anomaly Detection: Dual Focus on Homogeneity and Heterogeneity in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2501.14197)[\[code\]]()
 
-- [Xiang2025] Enhancing Attribute-driven Fraud Detection with Risk-aware Graph Representation in *TKDE*, 2025.  [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10896835)
+- [Xiang2025] Enhancing Attribute-driven Fraud Detection with Risk-aware Graph Representation in *TKDE*, 2025.  [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10896835)[\[code\]]()
+
+- [Gao2025] Enhancing Graph-based Fraud Detection by Adversarial Confidence Reweighting in *ICASSP*, 2025.  [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887884)[\[code\]]()
+
+
  
 #### Feature Transformation
 
@@ -250,6 +254,10 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Li2025] DiffGAD: A Diffusion-based unsupervised graph anomaly detector in *ICLR*, 2025.  [\[paper\]](https://arxiv.org/pdf/2410.06549)[\[code\]](https://github.com/fortunato-all/LJH_DiffGAD)
 
+- - [Wang2025]  GADACE: Graph Anomaly Detection Combining Attribute Contrast and Structure Reconstruction   in *ICASSP*, 2025.  [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890106)[\[code\]]()
+
+- [Yu2025] Graph Anomaly Detection via Multi-Scale Reconstruction of Graph Encoder-Decoder Networks  in *ICASSP*, 2025.  [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888224)[\[code\]]()
+
 
 ### Graph Contrastive Learning
 
@@ -322,6 +330,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Shen2025]  Raising the Bar in Graph OOD Generalization: Invariant Learning Beyond Explicit Environment Modeling in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2502.10706)
 
 - [Yang2025] Synthesizing global and local perspectives in contrastive learning for graph anomaly detection in *KBS*, 2025. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0950705125003363?via%3Dihub) 
+
 
 
 ### Graph Representation Distillation 
