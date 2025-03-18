@@ -377,6 +377,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Alam2024] Hyperedge Anomaly Detection with Hypergraph Neural Network in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2412.05641)
 
 - [Cao2025]  How to Use Graph Data in the Wild to HelpGraph Anomaly Detection? in *KDD*, 2025. [\[paper\]](http://yangy.org/works/gnn/KDD25_Wild.pdf)[\[code\]](https://github.com/zjunet/)
+
+
  
 ### Community Adherence
 
@@ -388,7 +390,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Zhang2024] FCMH: Fast Cluster Multi-hop Model for Graph Fraud Detection in *ADMA*, 2024.  [\[paper\]](https://link.springer.com/chapter/10.1007/978-981-96-0821-8_3)
 
-- [Han2025] Mitigating the Tail Effect in Fraud Detection by Community Enhanced Multi-Relation Graph Neural Networks in *TKDE*, 2025.  [\[paper\]](https://www.computer.org/csdl/journal/tk/5555/01/10843290/23yAPifX4uk)
+- [Han2025] Mitigating the Tail Effect in Fraud Detection by Community Enhanced Multi-Relation Graph Neural Networks in *TKDE*, 2025.  [\[paper\]](https://www.computer.org/csdl/journal/tk/5555/01/10843290/23yAPifX4uk)[\[code\]]()
+
+- [NI2025] Unsupervised Graph Anomaly Detection via Multi-Hypersphere Heterophilic Graph Learning in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2503.12037)[\[code\]](https://github.com/KennyNH/MHetGL)
 
 ### Local Affinity
 
