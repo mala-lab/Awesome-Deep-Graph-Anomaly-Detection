@@ -258,6 +258,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Yu2025] Graph Anomaly Detection via Multi-Scale Reconstruction of Graph Encoder-Decoder Networks  in *ICASSP*, 2025.  [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888224)[\[code\]]()
 
+- [Dong2025] SmoothGNN: Smoothing-based GNN for Unsupervised Node Anomaly Detection in *WebConf*, 2025. [\[paper\]](https://arxiv.org/abs/2405.17525)
+
 
 ### Graph Contrastive Learning
 
