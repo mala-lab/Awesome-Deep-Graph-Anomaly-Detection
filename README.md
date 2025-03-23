@@ -462,7 +462,14 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Yang2024] AD-LLM: Benchmarking Large Language Models for Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2412.11142)
 
 - [Chen2024] PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection  in *Arxiv*, 2024. [\[paper\]](https://www.arxiv.org/abs/2412.12154)[\[code\]](https://github.com/yzhao062/pyod)
-  
+
+- [Ren2025] Foundation Models for Anomaly Detection: Vision and Challenges in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2502.06911)[\[code\]]()
+
+- [Su2025] Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review   in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2402.10350)[\[code\]]()
+
+- [Xu2025] Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey  in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2409.01980)[\[code\]]()
+
+
 ## Quantitative Comparison
 #### Quantitative comparison of node-level anomaly detection on datasets with manually injected (synthetic) anomalies
 |Metric   | Setting  | Cora | Citeseer | ACM | BlogCatalog | Flicker | Pubmed | Facebook | Reddit | Weibo |
