@@ -463,6 +463,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Chen2024] PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection  in *Arxiv*, 2024. [\[paper\]](https://www.arxiv.org/abs/2412.12154)[\[code\]](https://github.com/yzhao062/pyod)
 
+- [Liu2025] A Survey on Diffusion Models for Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2501.11430)[\[code\]](https://github.com/fdjingliu/DMAD)
+
 - [Ren2025] Foundation Models for Anomaly Detection: Vision and Challenges in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2502.06911)[\[code\]]()
 
 - [Su2025] Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review   in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2402.10350)[\[code\]]()
