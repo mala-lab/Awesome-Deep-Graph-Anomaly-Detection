@@ -144,7 +144,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Dong2025] SmoothGNN: Smoothing-based GNN for Unsupervised Node Anomaly Detection in *WebConf*, 2025. [\[paper\]](https://arxiv.org/abs/2405.17525)
 
-  
+- [Fu2025] GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2503.17903)[\[code\]](https://github.com/Yali-F/GLADMamba)
+
+
 ### Generative GNNs
 
 #### Feature Interpolation
@@ -254,7 +256,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Li2025] DiffGAD: A Diffusion-based unsupervised graph anomaly detector in *ICLR*, 2025.  [\[paper\]](https://arxiv.org/pdf/2410.06549)[\[code\]](https://github.com/fortunato-all/LJH_DiffGAD)
 
-- - [Wang2025]  GADACE: Graph Anomaly Detection Combining Attribute Contrast and Structure Reconstruction   in *ICASSP*, 2025.  [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890106)[\[code\]]()
+- [Wang2025]  GADACE: Graph Anomaly Detection Combining Attribute Contrast and Structure Reconstruction   in *ICASSP*, 2025.  [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890106)[\[code\]]()
 
 - [Yu2025] Graph Anomaly Detection via Multi-Scale Reconstruction of Graph Encoder-Decoder Networks  in *ICASSP*, 2025.  [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888224)[\[code\]]()
 
@@ -333,6 +335,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Yang2025] Synthesizing global and local perspectives in contrastive learning for graph anomaly detection in *KBS*, 2025. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0950705125003363?via%3Dihub) 
 
+- [Fu2025] GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2503.17903)[\[code\]](https://github.com/Yali-F/GLADMamba)
 
 
 ### Graph Representation Distillation 
