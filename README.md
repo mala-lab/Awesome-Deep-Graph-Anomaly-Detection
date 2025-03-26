@@ -110,7 +110,6 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Ma2024] Revisiting Score Propagation in Graph Out-of-Distribution Detection in *NeurIPS*, 2024. [\[paper\]](https://openreview.net/pdf/ad80247eca2415be71eec61e079ef8d2652d72fd.pdf)[\[code\]](https://github.com/longfei-ma/GRASP)
 
-- [Lin2024] UniGAD: Unifying Multi-level Graph Anomaly Detection in *NeurIPS*, 2024. [\[paper\]](https://openreview.net/pdf?id=sRILMnkkQd)[\[code\]](https://github.com/lllyyq1121/UniGAD)
 
 - [Hyun2024] LEX-GNN: Label-Exploring Graph Neural Network for Accurate Fraud Detection in *CIKM*, 2024. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679956)[\[code\]](https://github.com/wdhyun/LEX-GNN)
 
@@ -139,6 +138,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Dong2023] Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection in *ICLR*, 2024.[\[paper\]](https://arxiv.org/pdf/2310.02861)[\[code\]](https://github.com/xydong127/RQGNN)
 
 - [Ren2024] Heterophilic Graph Invariant Learning for Out-of-Distribution of Fraud Detection  in *ACM MM*, 2024. [\[paper\]](https://openreview.net/pdf?id=JnG3wI5E5P)
+
+- [Lin2024] UniGAD: Unifying Multi-level Graph Anomaly Detection in *NeurIPS*, 2024. [\[paper\]](https://openreview.net/pdf?id=sRILMnkkQd)[\[code\]](https://github.com/lllyyq1121/UniGAD)
 
 - [Dong2025] SpaceGNN: Multi-Space Graph Neural Network for Node Anomaly Detection with Extremely Limited Labels in  *ICLR*, 2025. [\[paper\]](https://openreview.net/forum?id=Syt4fWwVm1)[\[code\]](https://github.com/xydong127/SpaceGNN)
 
@@ -309,8 +310,6 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Chen2024] Towards Cross-domain Few-shot Graph Anomaly Detection in *ICDM*, 2024. [\[paper\]](https://arxiv.org/abs/2410.08629)
 
-- [Niu2024]  Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2410.14886)[\[code\]](https://github.com/mala-lab/UNPrompt)
-  
 - [Cheng2024] Graph Pre-Training Models Are Strong Anomaly Detectors in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2410.18487)
   
 - [Lian2024] Graph Anomaly Detection via Multi-ViewDiscriminative Awareness Learning in *TNSE*, 2024. [\[paper\]](https://ieeexplore.ieee.org/document/10682061)
@@ -328,8 +327,6 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Chen2025] Semi-supervised Anomaly Detection with Extremely Limited Labels in Dynamic Graphs in *DASFAA*, 2025. [\[paper\]](https://arxiv.org/pdf/2501.15035)
 
 - [Li2025]  Towards Automated Self-Supervised Learning for Truly Unsupervised Graph Anomaly Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2501.14694)
-
-- [Zheng2025] Cluster Aware Graph Anomaly Detection  in *WebConf*, 2025.  [\[paper\]](https://openreview.net/pdf?id=pje11KNgT6)
 
 - [Shen2025]  Raising the Bar in Graph OOD Generalization: Invariant Learning Beyond Explicit Environment Modeling in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2502.10706)
 
@@ -359,6 +356,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Meng2023] Generative Graph Augmentation for Minority Class in Fraud Detection  in *Arxiv*, 2023. [\[paper\]](https://dl.acm.org/doi/10.1145/3583780.3615255)[\[code\]](https://github.com/ChunjingXiao/CFAD)
 
 - [Liu2024] CDCGAN: Class Distribution-aware Conditional GAN-based minority augmentation for imbalanced node classification in *Neural Networks*, 2024.  [\[paper\]](https://www.sciencedirect.com/science/article/pii/S08936080240086215)[\[code\]](https://github.com/Crystal-LiuBojia/CDCGAN)
+  
 ### Score Prediction
 
 - [Pang2019] DevNet Deep Anomaly Detection with Deviation Networks in *KDD*, 2019. [\[paper\]](https://arxiv.org/abs/1911.08623)[\[code\]](https://github.com/GuansongPang/deviation-network)
@@ -406,6 +404,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Han2025] Mitigating the Tail Effect in Fraud Detection by Community Enhanced Multi-Relation Graph Neural Networks in *TKDE*, 2025.  [\[paper\]](https://www.computer.org/csdl/journal/tk/5555/01/10843290/23yAPifX4uk)[\[code\]]()
 
+- [Zheng2025] Cluster Aware Graph Anomaly Detection  in *WebConf*, 2025.  [\[paper\]](https://openreview.net/pdf?id=pje11KNgT6)
+
 - [NI2025] Unsupervised Graph Anomaly Detection via Multi-Hypersphere Heterophilic Graph Learning in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2503.12037)[\[code\]](https://github.com/KennyNH/MHetGL)
 
 ### Local Affinity
@@ -420,6 +420,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Wang2024] Context Correlation Discrepancy Analysis for Graph Anomaly Detection in *TKDE*, 2024.  [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10746358)
 
+- [Niu2024]  Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2410.14886)[\[code\]](https://github.com/mala-lab/UNPrompt)
+  
 - [Qiao2025]  AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2502.09254)[\[code\]](https://github.com/mala-lab/AnomalyGFM)
 
 - [ PirhayatI2025] Graph Anomaly Detection via Adaptive Test-time Representation Learning across Out-of-Distribution Domains in *Arxiv*, 2025.   [\[paper\]](https://arxiv.org/pdf/2502.14293)
