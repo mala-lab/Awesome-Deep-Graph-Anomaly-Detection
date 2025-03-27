@@ -378,7 +378,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Teng2018] Deep into Hypersphere: Robust and Unsupervised Anomaly Discovery in Dynamic Networks in *IJCAI*, 2018. [\[paper\]](https://www.ijcai.org/proceedings/2018/0378.pdf)[\[code\]](https://github.com/picsolab/DeepSphere)
 
-- [Wang2021] One-Class Graph Neural Networks for Anomaly Detection in Attributed Networks in * Neural Comput & Applic*, 2021. [\[paper\]](https://arxiv.org/abs/2002.09594)[\[code\]]([https://github.com/betterzhou/AAGNN](https://github.com/WangXuhongCN/OCGNN))
+- [Wang2021] One-Class Graph Neural Networks for Anomaly Detection in Attributed Networks in *Neural Comput & Applic*, 2021. [\[paper\]](https://arxiv.org/abs/2002.09594)[\[code\]]([https://github.com/betterzhou/AAGNN](https://github.com/WangXuhongCN/OCGNN))
  
 - [Zhou2021] Subtractive Aggregation for Attributed Network Anomaly Detection in *CIKM*, 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3459637.3482195?cid=99659129036)[\[code\]](https://github.com/betterzhou/AAGNN)
 
