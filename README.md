@@ -110,7 +110,6 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Ma2024] Revisiting Score Propagation in Graph Out-of-Distribution Detection in *NeurIPS*, 2024. [\[paper\]](https://openreview.net/pdf/ad80247eca2415be71eec61e079ef8d2652d72fd.pdf)[\[code\]](https://github.com/longfei-ma/GRASP)
 
-
 - [Hyun2024] LEX-GNN: Label-Exploring Graph Neural Network for Accurate Fraud Detection in *CIKM*, 2024. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679956)[\[code\]](https://github.com/wdhyun/LEX-GNN)
 
 - [Liu2024] Collaborative Fraud Detection on Large Scale Graph Using Secure Multi-Party Computation in *CIKM*, 2024. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679863)
@@ -125,6 +124,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Gao2025] Enhancing Graph-based Fraud Detection by Adversarial Confidence Reweighting in *ICASSP*, 2025.  [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887884)[\[code\]]()
 
+- [Huang2025] Revisiting low-homophily for graph-based fraud detection in *Neural Network*, 2025.  [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0893608025002862)[\[code\]]()
 
  
 #### Feature Transformation
