@@ -334,6 +334,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Fu2025] GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2503.17903)[\[code\]](https://github.com/Yali-F/GLADMamba)
 
+- [Tang2025] Fraud detection in multi-relation graph: Contrastive Learning on Feature and Structural Levels in *Neurocomputing*, 2025. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0925231225007350)
+
 
 ### Graph Representation Distillation 
 
