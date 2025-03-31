@@ -116,6 +116,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Yang2024] A Generalizable Anomaly Detection Method in Dynamic Graph in *AAAI*, 2024. [\[paper\]](https://arxiv.org/pdf/2412.16447)[\[code\]](https://github.com/YXNTU/GeneralDyG)
 
+- [Haghighi] TROPICAL: Transformer-based Hypergraph Learning for Camouflaged Fraudster Detection  in *ICDM*, 2024.  [\[paper\]](https://web.science.mq.edu.au/~qsheng/papers/ICDM-Venus-2024.pdf)[\[code\]](https://github.com/VenusHaghighi/Fraud-Detection-HyperGNN)
+
 - [Wang2025] Open-set Graph Anomaly Detection via Normal Structure Regularisation in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2311.06835)[\[code\]]()
 
 - [Hao2025] Bi-directional Curriculum Learning for Graph Anomaly Detection: Dual Focus on Homogeneity and Heterogeneity in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2501.14197)[\[code\]]()
