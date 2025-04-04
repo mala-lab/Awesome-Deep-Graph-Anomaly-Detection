@@ -149,6 +149,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Fu2025] GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2503.17903)[\[code\]](https://github.com/Yali-F/GLADMamba)
 
+- [Bai2025] CRC-SGAD: Conformal Risk Control for Supervised Graph Anomaly Detection  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2504.02248)[\[code\]]()
+
 
 ### Generative GNNs
 
