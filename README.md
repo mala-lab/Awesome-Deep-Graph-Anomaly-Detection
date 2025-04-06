@@ -396,7 +396,6 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Cao2025]  How to Use Graph Data in the Wild to HelpGraph Anomaly Detection? in *KDD*, 2025. [\[paper\]](http://yangy.org/works/gnn/KDD25_Wild.pdf)[\[code\]](https://github.com/zjunet/)
 
-
  
 ### Community Adherence
 
