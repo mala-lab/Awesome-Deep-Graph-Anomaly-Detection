@@ -255,6 +255,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Zade2024] DCOR: Anomaly Detection in Attributed Networks via Dual Contrastive Learning Reconstruction in *ICCNA*, 2024. [\[paper\]](https://arxiv.org/pdf/2412.16788)
 
+- [Li2024] Graph Anomaly Detection with Domain-agnostic Pre-training and Few-shot Adaptation in *ICDE*, 2024. [\[paper\]](https://ieeexplore.ieee.org/document/10597726)
+
 - [Zhou2025] Training-free Graph Anomaly Detection: A Simple Approach via Singular Value Decomposition  in *WebConf*, 2025. [\[paper\]](https://openreview.net/pdf?id=OG1qScEqHK)
 
 - [Zhang2025] Attribute graph anomaly detection utilizing memory networks enhanced by multi-embedding comparison in *Neurocomputing*, 2025.  [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0925231225004345)
@@ -266,6 +268,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Yu2025] Graph Anomaly Detection via Multi-Scale Reconstruction of Graph Encoder-Decoder Networks  in *ICASSP*, 2025.  [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888224)[\[code\]]()
 
 - [Dong2025] SmoothGNN: Smoothing-based GNN for Unsupervised Node Anomaly Detection in *WebConf*, 2025. [\[paper\]](https://arxiv.org/abs/2405.17525)
+
+
+
 
 
 ### Graph Contrastive Learning
