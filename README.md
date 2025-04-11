@@ -243,7 +243,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Zou2024] A Structural Information Guided Hierarchical Reconstruction for Graph Anomaly Detection in *CIKM*, 2024.  [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679869)
   
-- [Kim2024] Rethinking Reconstruction-based Graph-Level Anomaly Detection: Limitations and a Simple Remedy in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2410.20366)
+- [Kim2024] Rethinking Reconstruction-based Graph-Level Anomaly Detection: Limitations and a Simple Remedy in *NeurIPS*, 2024. [\[paper\]](https://arxiv.org/pdf/2410.20366)
 
 - [Li2024] UMGAD: Unsupervised Multiplex Graph Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2411.12556)
 
