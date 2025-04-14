@@ -393,6 +393,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
  
 - [Zhou2021] Subtractive Aggregation for Attributed Network Anomaly Detection in *CIKM*, 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3459637.3482195?cid=99659129036)[\[code\]](https://github.com/betterzhou/AAGNN)
 
+- [Guo2022]  Learning Hypersphere for Few-shot Anomaly Detection on Attributed Networks in *CIKM*, 2022.  [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3511808.3557377)
+
 - [Li2023] HRGCN: Heterogeneous Graph-level Anomaly Detection with Hierarchical Relation-augmented Graph Neural Networks in *DSAA*, 2023. [\[paper\]](https://arxiv.org/abs/2308.14340)[\[code\]](https://github.com/jiaxililearn/HRGCN)
 
 - [Zhang2023] Deep Graph-level Orthogonal Hypersphere Compression for Anomaly Detection in *ICLR*, 2024. [\[paper\]](https://arxiv.org/abs/2302.06430)[\[code\]](https://github.com/wownice333/DOHSC-DO2HSC)
