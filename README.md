@@ -351,7 +351,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Wu2025] Federated Graph Anomaly Detection Through Contrastive Learning with Global Negative Pairs  in *AAAI*, 2025. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/35458)[\[code\]]()
 
+- [Yu2025] Dynamic Neighborhood Modeling via Node-Subgraph Contrastive Learning for Graph-Based Fraud Detection in *AAAI*, 2025. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33369)[\[code\]]()
 
+- [Song2025] UniFORM: Towards Unifed Framework for Anomaly Detection on Graphs in *AAAI*, 2025. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33369)[\[code\]]()
 
 
 ### Graph Representation Distillation 
