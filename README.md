@@ -200,6 +200,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Choi2024] Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks against GNN-Based Fraud Detectors in *AAAI*, 2025.  [\[paper\]](https://arxiv.org/pdf/2412.18370)[\[code\]](https://github.com/bdi-lab/MonTi)
 
+- [Li2025] Context-aware Graph Neural Network for Graph-based Fraud Detection with Extremely Limited Labels in *AAAI*, 2025.  [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33319)[\[code\]]()
 
 
 ## Proxy Task Design
