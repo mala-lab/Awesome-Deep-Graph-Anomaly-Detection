@@ -151,6 +151,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Bai2025] CRC-SGAD: Conformal Risk Control for Supervised Graph Anomaly Detection  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2504.02248)[\[code\]]()
 
+- [Zheng2025] Dynamic Spectral Graph Anomaly Detection in *AAAI*, 2025. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33464)[\[code\]](https://github.com/IWantBe/Dynamic-Spectral-Graph-Anomaly-Detection)
+
 
 ### Generative GNNs
 
@@ -344,6 +346,12 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Fu2025] GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2503.17903)[\[code\]](https://github.com/Yali-F/GLADMamba)
 
 - [Tang2025] Fraud detection in multi-relation graph: Contrastive Learning on Feature and Structural Levels in *Neurocomputing*, 2025. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0925231225007350)
+
+- [Xu2025] Revisiting Graph Contrastive Learning on Anomaly Detection: A Structural Imbalance Perspective  in *AAAI*, 2025. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33415)[\[code\]](https://github.com/yimingxu24/AD-GCL)
+
+- [Wu2025] Federated Graph Anomaly Detection Through Contrastive Learning with Global Negative Pairs  in *AAAI*, 2025. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/35458)[\[code\]]()
+
+
 
 
 ### Graph Representation Distillation 
