@@ -128,6 +128,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Huang2025] Revisiting low-homophily for graph-based fraud detection in *Neural Network*, 2025.  [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0893608025002862)[\[code\]]()
 
+- [Duan2025] Global Attribute-Association Pattern Aggregation for Graph Fraud Detection in *AAAI*, 2025.  [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33264)[\[code\]](https://github.com/AtwoodDuan/GAAP)
  
 #### Feature Transformation
 
