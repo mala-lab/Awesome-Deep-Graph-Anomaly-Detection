@@ -357,6 +357,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Song2025] UniFORM: Towards Unifed Framework for Anomaly Detection on Graphs in *AAAI*, 2025. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33369)[\[code\]]()
 
+- [Liu2025] A Pre-Training and Adaptive Fine-Tuning Framework for Graph Anomaly Detection  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2504.14250)[\[code\]]()
+
 
 ### Graph Representation Distillation 
 
