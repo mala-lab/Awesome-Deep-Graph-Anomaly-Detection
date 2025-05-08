@@ -188,8 +188,6 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 #### Noise Perturbation
 
-- [Cai2023] Self-Discriminative Modeling for Anomalous Graph Detection in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2310.06261)
-
 - [Liu2023] GODM Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models in *Arxiv*, 2023.  [\[paper\]](https://arxiv.org/abs/2312.17679)[\[code\]](https://github.com/kayzliu/godm)
 
 - [Lou2023] GADY: Unsupervised Anomaly Detection on Dynamic Graphs in *Arxiv*, 2023.  [\[paper\]](https://arxiv.org/abs/2310.16376)[\[code\]](https://github.com/mufeng-74/GADY)
@@ -201,6 +199,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Choi2024] Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks against GNN-Based Fraud Detectors in *AAAI*, 2025.  [\[paper\]](https://arxiv.org/pdf/2412.18370)[\[code\]](https://github.com/bdi-lab/MonTi)
 
 - [Li2025] Context-aware Graph Neural Network for Graph-based Fraud Detection with Extremely Limited Labels in *AAAI*, 2025.  [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33319)[\[code\]]()
+
+- [Cai2023] Self-Discriminative Modeling for Anomalous Graph Detection in *ICML*, 2025. [\[paper\]](https://arxiv.org/abs/2310.06261)
 
 
 ## Proxy Task Design
