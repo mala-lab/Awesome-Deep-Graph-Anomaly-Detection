@@ -200,7 +200,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Li2025] Context-aware Graph Neural Network for Graph-based Fraud Detection with Extremely Limited Labels in *AAAI*, 2025.  [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33319)[\[code\]]()
 
-- [Cai2023] Self-Discriminative Modeling for Anomalous Graph Detection in *ICML*, 2025. [\[paper\]](https://arxiv.org/abs/2310.06261)
+- [Cai2025] Self-Discriminative Modeling for Anomalous Graph Detection in *ICML*, 2025. [\[paper\]](https://arxiv.org/abs/2310.06261)
 
 
 ## Proxy Task Design
@@ -358,6 +358,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Song2025] UniFORM: Towards Unifed Framework for Anomaly Detection on Graphs in *AAAI*, 2025. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33369)[\[code\]]()
 
 - [Liu2025] A Pre-Training and Adaptive Fine-Tuning Framework for Graph Anomaly Detection  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2504.14250)[\[code\]]()
+
+- [Xiao2025] Graph-Enhanced Multi-Scale Contrastive Learning for Graph Anomaly Detection with Adaptive Diffusion Models  in *TBD*, 2025. [\[paper\]](https://ieeexplore.ieee.org/document/10982168)[\[code\]](https://github.com/TY-Tongyao/GCLAD)
 
 
 ### Graph Representation Distillation 
