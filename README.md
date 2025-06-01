@@ -134,6 +134,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Huang2025] Revisiting low-homophily for graph-based fraud detection in *Neural Network*, 2025.  [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0893608025002862)[\[code\]]()
 
 - [Duan2025] Global Attribute-Association Pattern Aggregation for Graph Fraud Detection in *AAAI*, 2025.  [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33264)[\[code\]](https://github.com/AtwoodDuan/GAAP)
+
+- [Li2025] Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection in *KDD*, 2025. [\[paper\]](https://arxiv.org/abs/2505.18934)[\[code\]](https://github.com/HsipingLi/ChiGAD)
  
 #### Feature Transformation
 
@@ -365,6 +367,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Liu2025] A Pre-Training and Adaptive Fine-Tuning Framework for Graph Anomaly Detection  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2504.14250)[\[code\]]()
 
 - [Xiao2025] Graph-Enhanced Multi-Scale Contrastive Learning for Graph Anomaly Detection with Adaptive Diffusion Models  in *TBD*, 2025. [\[paper\]](https://ieeexplore.ieee.org/document/10982168)[\[code\]](https://github.com/TY-Tongyao/GCLAD)
+
+- [Jin2025] Rethinking Contrastive Learning in Graph Anomaly Detection: A Clean-View Perspective in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2505.18002)[\[code\]]()
 
 
 ### Graph Representation Distillation 
