@@ -15,7 +15,7 @@ We will be hosting a tutorial named [**Deep Learning for Graph Anomaly Detection
 
 
  
-## Survey Paper 
+## Survey Paper (IEEE TKDE 2025)
 
 [**Deep Graph Anomaly Detection: A Survey and New Perspectives**](https://arxiv.org/abs/2409.09957)  
 
