@@ -11,9 +11,19 @@ We will continue to update this list with the latest resources. If you find any 
 
 ## Tutorial
 
-📢 We are excited to announce that we will be hosting a **tutorial** titled  👉 [**Deep Learning for Graph Anomaly Detection**](https://sites.google.com/view/ijcai-tutorial-on-ad/home)  
-at the upcoming [**IJCAI 2025**](https://2025.ijcai.org/)!
+<p style="font-size:20px; color:red;">
+📢 We are excited to announce that we will be hosting a <strong>tutorial</strong> titled<br>
+👉 <a href="https://sites.google.com/view/ijcai-tutorial-on-ad/home"><strong>Deep Learning for Graph Anomaly Detection</strong></a><br>
+at the upcoming <a href="https://2025.ijcai.org/"><strong>IJCAI 2025</strong></a>!
+</p>
 
+<p style="font-size:20px; color:red;">
+This tutorial is based on our recent comprehensive <strong>survey</strong> in the field.
+</p>
+
+<p style="font-size:22px; color:red;">
+✨ <strong>We warmly welcome everyone to attend!</strong> ✨
+</p>
  
 ## Survey Paper (IEEE TKDE 2025)
 
