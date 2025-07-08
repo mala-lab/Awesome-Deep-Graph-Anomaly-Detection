@@ -10,9 +10,10 @@ A professionally curated list of awesome resources (paper, code, data, etc.) on 
 We will continue to update this list with the latest resources. If you find any missed resources (paper/code) or errors, please **feel free to open an issue or make a pull request**.
 
 ## Tutorial
-📢 We are excited to announce that we will be hosting a <strong>tutorial</strong> titled 👉 <a href="https://sites.google.com/view/ijcai-tutorial-on-ad/home"><strong>Deep Learning for Graph Anomaly Detection</strong></a><br> at the upcoming <a href="https://2025.ijcai.org/"><strong>IJCAI 2025</strong></a>!
 
-This tutorial is based on our recent comprehensive <strong>survey</strong> in the field.
+## 📢 We are excited to announce that we will be hosting a <strong>tutorial</strong> titled 👉 <a href="https://sites.google.com/view/ijcai-tutorial-on-ad/home"><strong>Deep Learning for Graph Anomaly Detection</strong></a><br> at the upcoming <a href="https://2025.ijcai.org/"><strong>IJCAI 2025</strong></a>!
+
+## This tutorial is based on our recent comprehensive <strong>survey</strong> in the field.
 
 ✨ <strong>We warmly welcome everyone to attend!</strong> ✨
 
