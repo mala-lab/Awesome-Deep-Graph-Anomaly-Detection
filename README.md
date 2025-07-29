@@ -29,11 +29,12 @@ This tutorial is based on our recent comprehensive <strong>survey</strong> in th
 #### If you find this repository helpful for your work, please kindly cite our paper.
 
 ```bibtex
-@article{qiao2024deep,
+@article{qiao2025deep,
   title={Deep Graph Anomaly Detection: A Survey and New Perspectives},
   author={Qiao, Hezhe and Tong, Hanghang and An, Bo and King, Irwin and Aggarwal, Charu and Pang, Guansong},
-  journal={arXiv preprint arXiv:2409.09957},
-  year={2024}
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
