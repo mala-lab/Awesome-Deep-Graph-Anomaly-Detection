@@ -16,6 +16,8 @@ It will be a half-day tutorial scheduled for the full morning of August 18, 2025
 
 This tutorial is based on our recent comprehensive <strong>survey</strong> in the field.
 
+The tutorial slides will be released soon !!!
+
 ✨ <strong>We warmly welcome everyone to attend!</strong> ✨
 
 ## Survey Paper (IEEE TKDE 2025)
