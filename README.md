@@ -16,7 +16,7 @@ It will be a half-day tutorial scheduled for the full morning of August 18, 2025
 
 This tutorial is based on our recent comprehensive <strong>survey</strong> in the field.
 
-The tutorial slides will be released soon !!!
+The tutorial slides can be obtained here <a href="https://drive.google.com/file/d/17qbeiLvx9r8bf-cmrO4vhKBYSHaRcZWO/view?usp=drive_link"><strong>Slides</strong></a>
 
 ✨ <strong>We warmly welcome everyone to attend!</strong> ✨
 
