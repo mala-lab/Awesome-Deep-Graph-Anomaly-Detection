@@ -379,6 +379,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Jin2025] Rethinking Contrastive Learning in Graph Anomaly Detection: A Clean-View Perspective in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2505.18002)[\[code\]]()
 
+- [Yan2025] Address Anomalies at Critical Crossroads for Graph Anomaly Detection in *TKDE*, 2025. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/11183627)[\[code\]]()
+
 
 ### Graph Representation Distillation 
 
