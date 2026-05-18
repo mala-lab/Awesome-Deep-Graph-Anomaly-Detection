@@ -445,6 +445,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Cao2025]  How to Use Graph Data in the Wild to HelpGraph Anomaly Detection? in *KDD*, 2025. [\[paper\]](http://yangy.org/works/gnn/KDD25_Wild.pdf)[\[code\]](https://github.com/zjunet/)
 
+- [Chen2026] Towards Multiple Missing Values-resistant Unsupervised Graph Anomaly  in *AAAI*, 2026. [\[paper\]](https://arxiv.org/pdf/2511.09917)[\[code\]]()
+
  
 ### Community Adherence
 
