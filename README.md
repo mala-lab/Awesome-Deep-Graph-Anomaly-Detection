@@ -163,6 +163,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Fu2025] GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2503.17903)[\[code\]](https://github.com/Yali-F/GLADMamba)
 
+- [Ai2025] Semi-supervised Graph Anomaly Detection via Robust Homophily Learning in *NeurIPS*, 2025. [\[paper\]](https://arxiv.org/abs/2506.15448)[\[code\]](https://github.com/mala-lab/RHO)
+
 - [Bai2025] CRC-SGAD: Conformal Risk Control for Supervised Graph Anomaly Detection  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2504.02248)[\[code\]]()
 
 - [Zheng2025] Dynamic Spectral Graph Anomaly Detection in *AAAI*, 2025. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33464)[\[code\]](https://github.com/IWantBe/Dynamic-Spectral-Graph-Anomaly-Detection)
