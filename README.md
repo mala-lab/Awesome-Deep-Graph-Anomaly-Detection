@@ -490,6 +490,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Zhang2025] Gctam: Global and contextual truncated affinity combined maximization model for unsupervised graph anomaly detection in *IJCAI*, 2025. [\[paper\]](https://www.ijcai.org/proceedings/2025/0405.pdf)[\[code\]]()
 
+- [Yan2026] MV-FGAD: Towards Efficient and Effective Federated Graph Anomaly Detection via Multi-view Learning in *ICML*, 2026. [\[paper\]](https://openreview.net/forum?id=yBcY0bY45t&noteId=TpmWdQ9IhG)[\[code\]](https://github.com/Junyi-Yan/MV-FGAD)
+
 
 ### Graph Isolation 
 
