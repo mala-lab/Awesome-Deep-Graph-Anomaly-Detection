@@ -397,6 +397,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Pan2026] Correcting False Alarms from Unseen: Adapting Graph Anomaly Detectors at Test Time in *AAAI*, 2026. [\[paper\]](https://arxiv.org/pdf/2511.07023)[\[code\]](https://github.com/CampanulaBells/TUNE)
 
+- [Zeng2026] Normality Calibration in Semi-supervised Graph Anomaly Detection in *ICML*, 2026. [\[paper\]](https://arxiv.org/abs/2510.02014)[\[code\]](https://github.com/mala-lab/GraphNC)
+
 
 ### Adversarial Graph Learning
 
