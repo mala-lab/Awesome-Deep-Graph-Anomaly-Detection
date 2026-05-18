@@ -288,6 +288,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Dong2025] SmoothGNN: Smoothing-based GNN for Unsupervised Node Anomaly Detection in *WebConf*, 2025. [\[paper\]](https://arxiv.org/abs/2405.17525)
 
+- [Zhao2026] FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-level Anomaly Detection in *IJCAI*, 2026. [\[paper\]](https://arxiv.org/pdf/2605.09428)
 
 
 
