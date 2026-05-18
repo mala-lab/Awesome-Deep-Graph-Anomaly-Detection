@@ -524,6 +524,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Xu2025] Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey  in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2409.01980)[\[code\]]()
 
+- [Zhou2026] GAD in the Wild: Benchmarking Graph Anomaly Detection under Realistic Deployment Challenges in *Arxiv*, 2026.  [\[paper\]](https://arxiv.org/pdf/2605.07133)[\[code\]]()
+
 
 ## Quantitative Comparison
 #### Quantitative comparison of node-level anomaly detection on datasets with manually injected (synthetic) anomalies
