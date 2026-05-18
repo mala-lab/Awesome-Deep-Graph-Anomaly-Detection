@@ -215,6 +215,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Cai2025] Self-Discriminative Modeling for Anomalous Graph Detection in *ICML*, 2025. [\[paper\]](https://arxiv.org/abs/2310.06261)
 
+- [Zhou2026]  Learning Feature Encoder with Synthetic Anomalies for Weakly Supervised Graph Anomaly Detection in *TKDE*, 2026.  [\[paper\]](https://arxiv.org/pdf/2605.11749)[\[code\]](https://github.com/yj-zhou/SAWGAD)
+
 
 ## Proxy Task Design
 
