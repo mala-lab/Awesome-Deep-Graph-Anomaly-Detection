@@ -392,6 +392,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Cao2024] FANFOLD: Graph Normalizing Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2407.00383)[\[code\]](https://github.com/Goldenhorns/FANFOLD)
 
+- [Pan2026] Correcting False Alarms from Unseen: Adapting Graph Anomaly Detectors at Test Time in *AAAI*, 2026. [\[paper\]](https://arxiv.org/pdf/2511.07023)[\[code\]](https://github.com/CampanulaBells/TUNE)
+
+
 ### Adversarial Graph Learning
 
 - [Chen2020] Generative Adversarial Attributed Network Anomaly Detection in *CIKM*, 2020. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3340531.3412070)[\[code\]](https://github.com/pygod-team/pygod)
