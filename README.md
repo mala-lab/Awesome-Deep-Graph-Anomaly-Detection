@@ -10,7 +10,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 ## Tutorial
 
-📢 We are delighted to share that we have successfully hosted the tutorial titled <strong>tutorial</strong> titled 👉 <a href="https://sites.google.com/view/ijcai-tutorial-on-ad/home"><strong>Deep Learning for Graph Anomaly Detection</strong></a><br> at the upcoming <a href="https://2025.ijcai.org/"><strong>IJCAI 2025</strong></a>!
+📢 We are delighted to share that we have successfully hosted the <strong>tutorial</strong> titled 👉 <a href="https://sites.google.com/view/ijcai-tutorial-on-ad/home"><strong>Deep Learning for Graph Anomaly Detection</strong></a><br> at the upcoming <a href="https://2025.ijcai.org/"><strong>IJCAI 2025</strong></a>!
 
 This tutorial is based on our recent comprehensive <strong>survey</strong> in the field.
 
