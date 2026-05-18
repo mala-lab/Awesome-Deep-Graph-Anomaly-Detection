@@ -167,6 +167,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Zheng2025] Dynamic Spectral Graph Anomaly Detection in *AAAI*, 2025. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33464)[\[code\]](https://github.com/IWantBe/Dynamic-Spectral-Graph-Anomaly-Detection)
 
+- [Liu2026] Mitigating Homophily Disparity in Graph Anomaly Detection: A Scalable and Adaptive Approach  in *WebConf*, 2026. [\[paper\]](https://arxiv.org/pdf/2603.08137)[\[code\]](https://github.com/Cloudy1225/SAGAD)
+
+
 
 ### Generative GNNs
 
