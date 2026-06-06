@@ -444,9 +444,9 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Alam2024] Hyperedge Anomaly Detection with Hypergraph Neural Network in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2412.05641)
 
-- [Cao2025]  How to Use Graph Data in the Wild to HelpGraph Anomaly Detection? in *KDD*, 2025. [\[paper\]](http://yangy.org/works/gnn/KDD25_Wild.pdf)[\[code\]](https://github.com/zjunet/)
+- [Cao2025]  How to Use Graph Data in the Wild to HelpGraph Anomaly Detection? in *KDD*, 2025. [\[paper\]](http://yangy.org/works/gnn/KDD25_Wild.pdf)[\[code\]](https://github.com/caoyxuan/Wild-GAD)
 
-- [Chen2026] Towards Multiple Missing Values-resistant Unsupervised Graph Anomaly  in *AAAI*, 2026. [\[paper\]](https://arxiv.org/pdf/2511.09917)[\[code\]]()
+- [Chen2026] Towards Multiple Missing Values-resistant Unsupervised Graph Anomaly  in *AAAI*, 2026. [\[paper\]](https://arxiv.org/pdf/2511.09917)
 
  
 ### Community Adherence
