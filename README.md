@@ -461,7 +461,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Han2025] Mitigating the Tail Effect in Fraud Detection by Community Enhanced Multi-Relation Graph Neural Networks in *TKDE*, 2025.  [\[paper\]](https://www.computer.org/csdl/journal/tk/5555/01/10843290/23yAPifX4uk)[\[code\]]()
 
-- [Zheng2025] Cluster Aware Graph Anomaly Detection  in *WebConf*, 2025.  [\[paper\]](https://openreview.net/pdf?id=pje11KNgT6)
+- [Zheng2025] Cluster Aware Graph Anomaly Detection  in *WebConf*, 2025.  [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3696410.3714575)[\[code\]](https://github.com/zhenglecheng/CARE-demo)
 
 - [NI2025] Unsupervised Graph Anomaly Detection via Multi-Hypersphere Heterophilic Graph Learning in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2503.12037)[\[code\]](https://github.com/KennyNH/MHetGL)
 
